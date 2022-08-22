@@ -5,10 +5,22 @@ permalink: /history/
 isStaticPost: true
 ---
 
-RECOMB-seq was founded in 2011 as a response to the expanding applications of high-throughput sequencing as a  tool of basic science and biomedicine.
-The conference gathered leading researchers in computational genomics and genomic biology to discuss emerging frontiers in algorithm development for sequencing data. The emphasis is on applying computational approaches to improve analysis, interpretation and data management.
-Since then, the scope of RECOMB-seq has expanded beyond sequencing data to include assembled data as well, all the while focusing on methodological developments.
-To reflect this, the conference name was changed in 2022 from "RECOMB Satellite Workshop on Massively Parallel Sequencing" to "RECOMB Satellite Conference on Biological Sequence Analysis."
+The RECOMB conference series was founded in 1997 to provide a scientific forum for theoretical advances in computational biology and their applications in molecular biology and medicine. The conference solicits research contributions from all areas of computational molecular biology. Typical but not exclusive topics of interest include:
+
+- Molecular sequence analysis
+- Recognition of genes and regulatory elements
+- Molecular evolution
+- Gene expression
+- Biological networks
+- Sequencing and genotyping techniques
+- Genomics
+- Population genetics
+- Systems biology
+- Imaging
+- Computational proteomics
+- Molecular structural biology
+
+The origins of the conference came from the mathematical and computational side of the field, and there remains a focus on computational advances. In addition, the effective use of computational techniques in biological discovery is also an important aspect of the conference.
 {: .text-justify }
                 
 You can watch some previous talks of the conference at our [YouTube channel](https://www.youtube.com/channel/UCYdQZ9egzBoszApB4ksjE3g/playlists).
