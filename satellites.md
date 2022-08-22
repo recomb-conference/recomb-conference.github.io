@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: post
 title: RECOMB Satellite Meetings
 permalink: /satellites/
-image: blog.jpg
+isStaticPost: true
 ---
 
- {% include top-section.html %}
- 
