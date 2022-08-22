@@ -2,10 +2,9 @@
 layout: post
 title: RECOMB Awards
 permalink: /awards/
-image: blog.jpg
+isStaticPost: true
 ---
 
- {% include top-section.html %}
  
 #### Best Paper Awards
 
