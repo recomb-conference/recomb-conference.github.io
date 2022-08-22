@@ -27,57 +27,57 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
 
 #### Past RECOMB Conferences
 
- - [RECOMB 2022](https://www.recomb2022.net): San Diego, CA, USA
+ - [RECOMB 2022](https://www.recomb2022.net): San Diego, CA, USA, May 22–25, 2022
    - Program Committee Chair: Itsik Pe'er
    - Organization Committee: Vineet Bafna, Vikas Bansal, Jocelyn Bernardo, Melissa Gymrek, Siavash Mirarab, Glenn Tesler, Kaiyuan Zhu
    - [Proceedings](https://link.springer.com/book/10.1007/978-3-031-04749-7)
    - Photo Album
- - [RECOMB 2021](): 
+ - [RECOMB 2021](): Padova, Italy (virtual), August 29 – September 1, 2021
    - Program Committee Chair:
    - Organization Committee: 
    - [Proceedings]()
    - Photo Album
- - [RECOMB 2020](): 
+ - [RECOMB 2020](): Padova, Italy (virtual), June 22-25, 2020
    - Program Committee Chair:
    - Organization Committee: 
    - [Proceedings]()
    - Photo Album
- - [RECOMB 2019](): 
+ - [RECOMB 2019](): Washington, DC, United States, May 5-8, 2019
    - Program Committee Chair:
    - Organization Committee: 
    - [Proceedings]()
    - Photo Album
- - [RECOMB 2018](): 
+ - [RECOMB 2018](): Paris, France, April 21-24, 2018
    - Program Committee Chair:
    - Organization Committee: 
    - [Proceedings]()
    - Photo Album
- - [RECOMB 2017](): 
+ - [RECOMB 2017](): Hong Kong, May 3-7, 2017
    - Program Committee Chair:
    - Organization Committee: 
    - [Proceedings]()
    - Photo Album
- - [RECOMB 2016](): 
+ - [RECOMB 2016](): Santa Monica, CA, United States, April 17-21, 2016
    - Program Committee Chair:
    - Organization Committee: 
    - [Proceedings]()
    - Photo Album
- - [RECOMB 2015](): 
+ - [RECOMB 2015](): Warsaw, Poland, April 12-15, 2015
    - Program Committee Chair:
    - Organization Committee: 
    - [Proceedings]()
    - Photo Album
- - [RECOMB 2014](): 
+ - [RECOMB 2014](): Pittsburgh, PA, United States, April 2-5, 2014
    - Program Committee Chair:
    - Organization Committee: 
    - [Proceedings]()
    - Photo Album
- - [RECOMB 2013](): 
+ - [RECOMB 2013](): Beijing, China, April 7-10, 2013
    - Program Committee Chair:
    - Organization Committee: 
    - [Proceedings]()
    - Photo Album
- - [RECOMB 2012](): 
+ - [RECOMB 2012](): Barcelona, Spain, April 21-24, 2012
    - Program Committee Chair:
    - Organization Committee: 
    - [Proceedings]()
