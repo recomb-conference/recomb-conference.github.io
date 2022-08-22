@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: RECOMB Awards
 permalink: /awards/
 image: blog.jpg
@@ -7,7 +7,7 @@ image: blog.jpg
 
  {% include top-section.html %}
  
-# Best Paper Awards
+#### Best Paper Awards
 
 *   2021: Serhan Yılmaz, Marzieh Ayati, Daniela Schlatzer, A. Ercüment Çiçek, Mark R. Chance and Mehmet Koyutürk. ["Robust inference of kinase activity using functional networks"](https://www.nature.com/articles/s41467-021-21211-6).
 *   2020: Amatur Rahman and Paul Medvedev. ["Representation of k-mer sets using spectrum-preserving string sets"](https://www.liebertpub.com/doi/10.1089/cmb.2020.043).
@@ -21,12 +21,12 @@ image: blog.jpg
 *   2012: Patrick Holloway, Krister Swenson, David Ardell and Nadia El-Mabrouk for the contribution ["Evolution of genome organization by duplication and loss: a linear programming approach"](https://link.springer.com/chapter/10.1007/978-3-642-29627-7_10).
 *   2011: Shay Zakov, Yoav Goldberg, Michael Elhadad and Michal Ziv-Ukelson. ["Rich parametrization improves RNA structure prediction"](https://www.liebertpub.com/doi/10.1089/cmb.2011.0184).
 
-# Best Student Paper Awards
+#### Best Student Paper Awards
 
 *   2021: Barış Ekim, Bonnie Berger and Rayan Chikhi. ["Minimizer-space de Bruijn graphs: whole-genome assembly of long reads in minutes on a personal computer"](https://www.sciencedirect.com/science/article/pii/S240547122100332X).
 *   2018: Ariya Shajii, Ibrahim Numanagić and Bonnie Berger. ["Latent variable model for aligning barcoded short-reads improves downstream analyses"](https://www.sciencedirect.com/science/article/pii/S2405471218302849).
 
-# Best Poster Awards
+#### Best Poster Awards
 
 *   2022: Daniel Ariad, Svetlana Madjunkova and Rajiv McCoy. "Inference of meiotic recombination events from a large sample of human embryos".
 *   2021: Arun Das and Michael Schatz. "Analysis of sketching and sampling approaches for fast and accurate long read classification".
@@ -49,7 +49,7 @@ image: blog.jpg
     *   Chen Yanover and Philip Bradley. "Large-scale characterization of binding landscapes using structural simulations: application to C2H2 zinc-finger transcription factors and MHC proteins".
     *   Raheleh Salari and Teresa M Przytycka. "The effect of SNPs on Boltzmann distribution for RNA secondary structure".
 
-# Test of Time Awards
+#### Test of Time Awards
 
 *   2022: Yu Peng, Henry C. M. Leung, S. M. Yiu and Francis Y. L. Chin. ["IDBA – a Practical iterative de Bruijn graph _de novo_ assembler"](https://link.springer.com/chapter/10.1007/978-3-642-12683-3_28). _Published in RECOMB 2010._
 *   2021: Nicholas D. Pattengale, Masoud Alipour, Olaf R. P. Bininda-Emonds, Bernard M. E. Moret and Alexandros Stamatakis. ["How many bootstrap replicates are necessary?"](https://link.springer.com/chapter/10.1007/978-3-642-02008-7_13). _Published in RECOMB 2009._

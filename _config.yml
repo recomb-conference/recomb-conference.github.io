@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "RECOMB Conference"
+title: "RECOMB Conference Series"
 email: "recomb-conference@gmail.com"
 description: "RECOMB: Conference on Research on Computational Molecular Biology"
 baseurl: ""
@@ -21,7 +21,7 @@ googleAnalyticsSiteUrl: "recomb-conference.github.io"
 siteVerification: ""
 
 # Organizer Info
-organizerName: "RECOMB"
+organizerName: "RECOMB Conference Series"
 organizerAlternateName: "RECOMB"
 organizerDescription: "A series of conferences on computational molecular biology"
 organizerEmail: "recomb-conference@gmail.com"
@@ -49,8 +49,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "RECOMB"
-heroSubTitle: "Conference Series on Computational Molecular Biology"
+heroTitle: "RECOMB Conference Series"
+heroSubTitle: "Research on Computational Molecular Biology"
 #eventDate: "April 14-15, 2023"
 #eventLocation: "İstanbul, Turkey"
 #typeoutTextValues: '"2023"'
