@@ -40,7 +40,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/team/", text: "Steering Committee"}
  - {permalink: "/satellites/", text: "Satellites"}
- - {permalink: "/history/", text: "Past RECOMBs"}
+ - {permalink: "/history/", text: "History"}
  - {permalink: "/awards/", text: "Awards"}
 bottomNavigationLinks:
 # - {link: "https://bit.ly/dfua-c4p", text: "Submit a paper"}
@@ -49,14 +49,14 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "RECOMB 2023"
-heroSubTitle: "The 27th RECOMB Conference on Biological Sequence Analysis"
-eventDate: "April 14-15, 2023"
-eventLocation: "İstanbul, Turkey"
+heroTitle: "RECOMB"
+heroSubTitle: "Conference Series on Computational Molecular Biology"
+#eventDate: "April 14-15, 2023"
+#eventLocation: "İstanbul, Turkey"
 #typeoutTextValues: '"2023"'
 #typeoutFallback: "2023"
 heroButtons:
- #- {link: "https://bit.ly/dfua-c4p", text: "Submit a paper"}
+ - {link: "http://recomb2023.bilkent.edu.tr", text: "Current Conference: RECOMB 2023 in İstanbul"}
  #- {permalink: "/#tickets", text: "Attend RECOMB SEQ 2023"}
 
 # About Block
