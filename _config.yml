@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "RECOMB Conference"
 email: "recomb-conference@gmail.com"
-description: "RECOMB is  Conference on Biological Sequence Analysis"
+description: "RECOMB: Conference on Research on Computational Molecular Biology"
 baseurl: ""
 url: "https://recomb-conference.github.io"
 permalink: "/blog/:title"
@@ -23,7 +23,7 @@ siteVerification: ""
 # Organizer Info
 organizerName: "RECOMB"
 organizerAlternateName: "RECOMB"
-organizerDescription: "Algorithm development for analyzing sequence data"
+organizerDescription: "A series of conferences on computational molecular biology"
 organizerEmail: "recomb-conference@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.recomb.org"
@@ -94,7 +94,6 @@ twitterFeed: " https://twitter.com/recomb2023"
 # Footer
 socialLinks:
  - {link: "https://twitter.com/recomb2023", icon: "twitter"}
-# - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {link: "https://www.youtube.com/channel/UCYdQZ9egzBoszApB4ksjE3g/playlists", icon: "youtube"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
