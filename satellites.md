@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Call for Papers
+title: RECOMB Satellite Meetings
 permalink: /satellites/
 image: blog.jpg
 ---
