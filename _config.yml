@@ -14,7 +14,7 @@ title: "RECOMB Conference"
 email: "recomb-conference@gmail.com"
 description: "RECOMB is  Conference on Biological Sequence Analysis"
 baseurl: ""
-url: "https://recomb-conference.github.io"
+url: "https://recomb-conference.github.io/main"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: "recomb-conference.github.io"
@@ -111,11 +111,6 @@ footerBlocks:
   links:
    - {permalink: "/coi/", text: "Conflict-of-interest Policy"}
 
-# Collections
-collections:
-  paper-calls:
-    output: true
-# Speakers List Block
-showSessions: false
+
 
 
