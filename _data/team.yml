@@ -82,7 +82,7 @@
   id: 7
   name: "Richard"
   surname: "Karp"
-  title: "Former Steering Committee Member"
+  title: "University of California, Berkeley, USA"
   thumbnailUrl: richard_karp.jpg
   preTeam: true
   social: 
@@ -91,7 +91,7 @@
   id: 8
   name: "Thomas"
   surname: "Lengauer"
-  title: "Former Steering Committee Member"
+  title: "Max Planck Institute for Informatics, Germany"
   thumbnailUrl: thomas_lengauer.jpg
   preTeam: true
   social: 
@@ -100,7 +100,7 @@
   id: 9
   name: "Pavel"
   surname: "Pevzner"
-  title: "Former Steering Committee Member"
+  title: "University of California, San Diego, USA"
   thumbnailUrl: pavel_pevzner.jpg
   preTeam: true
   social: 
@@ -109,7 +109,7 @@
   id: 10
   name: "Ron"
   surname: "Shamir"
-  title: "Former Steering Committee Member"
+  title: "Tel-Aviv University, Israel"
   thumbnailUrl: ron_shamir.jpg
   preTeam: true
   social: 
@@ -118,16 +118,16 @@
   id: 11
   name: "Terry"
   surname: "Speed"
-  title: "Former Steering Committee Member"
+  title: "Walter and Eliza Hall Institute of Medical Research"
   thumbnailUrl: terry_speed.jpg
   preTeam: true
   social: 
-    - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
+    - {name: "site", link: "https://www.wehi.edu.au/people/terry-speed"}
 - 
   id: 12
   name: "Michael"
   surname: "Waterman"
-  title: "Former Steering Committee Member"
+  title: "University of Southern California, USA"
   thumbnailUrl: michael_waterman.jpg
   preTeam: true
   social: 
@@ -136,7 +136,7 @@
   id: 13
   name: "Michal"
   surname: "Linial"
-  title: "Former Steering Committee Member"
+  title: "Hebrew University, Israel"
   thumbnailUrl: michal_linial.jpg
   preTeam: true
   social: 
@@ -145,7 +145,7 @@
   id: 14
   name: "Sorin"
   surname: "Istrail"
-  title: "Former Steering Committee Member"
+  title: "Brown University, USA"
   thumbnailUrl: sorin_istrail.jpg
   preTeam: true
   social: 
@@ -154,10 +154,11 @@
   id: 15
   name: "Serafim"
   surname: "Batzoglou"
-  title: "Former Steering Committee Member"
+  title: "Seer Bio, USA"
   thumbnailUrl: serafim_batzoglou.jpg
   preTeam: true
   social: 
-    - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
+    - {name: "site", link: "https://www.serafimb.org/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/serafim-batzoglou-89a148/"}
  
 
