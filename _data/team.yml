@@ -83,7 +83,7 @@
   name: "Richard"
   surname: "Karp"
   title: "Former Steering Committee Member"
-  thumbnailUrl: ErcumentCicek.jpg
+  thumbnailUrl: richard_karp.jpg
   preTeam: true
   social: 
     - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
@@ -92,7 +92,7 @@
   name: "Thomas"
   surname: "Lengauer"
   title: "Former Steering Committee Member"
-  thumbnailUrl: ErcumentCicek.jpg
+  thumbnailUrl: thomas_lengauer.jpg
   preTeam: true
   social: 
     - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
@@ -101,7 +101,7 @@
   name: "Pavel"
   surname: "Pevzner"
   title: "Former Steering Committee Member"
-  thumbnailUrl: ErcumentCicek.jpg
+  thumbnailUrl: pavel_pevzner.jpg
   preTeam: true
   social: 
     - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
@@ -110,7 +110,7 @@
   name: "Ron"
   surname: "Shamir"
   title: "Former Steering Committee Member"
-  thumbnailUrl: ErcumentCicek.jpg
+  thumbnailUrl: ron_shamir.jpg
   preTeam: true
   social: 
     - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
@@ -119,7 +119,7 @@
   name: "Terry"
   surname: "Speed"
   title: "Former Steering Committee Member"
-  thumbnailUrl: ErcumentCicek.jpg
+  thumbnailUrl: terry_speed.jpg
   preTeam: true
   social: 
     - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
@@ -128,7 +128,7 @@
   name: "Michael"
   surname: "Waterman"
   title: "Former Steering Committee Member"
-  thumbnailUrl: ErcumentCicek.jpg
+  thumbnailUrl: michael_waterman.jpg
   preTeam: true
   social: 
     - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
@@ -137,7 +137,7 @@
   name: "Michal"
   surname: "Linial"
   title: "Former Steering Committee Member"
-  thumbnailUrl: ErcumentCicek.jpg
+  thumbnailUrl: michal_linial.jpg
   preTeam: true
   social: 
     - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
@@ -146,7 +146,7 @@
   name: "Sorin"
   surname: "Istrail"
   title: "Former Steering Committee Member"
-  thumbnailUrl: ErcumentCicek.jpg
+  thumbnailUrl: sorin_istrail.jpg
   preTeam: true
   social: 
     - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
@@ -155,7 +155,7 @@
   name: "Serafim"
   surname: "Batzoglou"
   title: "Former Steering Committee Member"
-  thumbnailUrl: ErcumentCicek.jpg
+  thumbnailUrl: serafim_batzoglou.jpg
   preTeam: true
   social: 
     - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
