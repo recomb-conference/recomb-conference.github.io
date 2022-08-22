@@ -86,7 +86,7 @@
   thumbnailUrl: richard_karp.jpg
   preTeam: true
   social: 
-    - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
+    - {name: "site", link: "https://www2.eecs.berkeley.edu/Faculty/Homepages/karp.html"}
 - 
   id: 8
   name: "Thomas"
@@ -95,7 +95,7 @@
   thumbnailUrl: thomas_lengauer.jpg
   preTeam: true
   social: 
-    - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
+    - {name: "site", link: "https://bioinf.mpi-inf.mpg.de/homepage/professional.php?&account=lengauer"}
 - 
   id: 9
   name: "Pavel"
@@ -104,7 +104,7 @@
   thumbnailUrl: pavel_pevzner.jpg
   preTeam: true
   social: 
-    - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
+    - {name: "site", link: "https://bioalgorithms.ucsd.edu/"}
 - 
   id: 10
   name: "Ron"
@@ -113,7 +113,7 @@
   thumbnailUrl: ron_shamir.jpg
   preTeam: true
   social: 
-    - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
+    - {name: "site", link: "https://www.cs.tau.ac.il/~rshamir/"}
 - 
   id: 11
   name: "Terry"
@@ -131,7 +131,7 @@
   thumbnailUrl: michael_waterman.jpg
   preTeam: true
   social: 
-    - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
+    - {name: "site", link: "https://dornsife.usc.edu/labs/msw/"}
 - 
   id: 13
   name: "Michal"
@@ -140,7 +140,7 @@
   thumbnailUrl: michal_linial.jpg
   preTeam: true
   social: 
-    - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
+    - {name: "site", link: "https://michal-linial.huji.ac.il/"}
 - 
   id: 14
   name: "Sorin"
@@ -149,7 +149,7 @@
   thumbnailUrl: sorin_istrail.jpg
   preTeam: true
   social: 
-    - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
+    - {name: "site", link: "https://www.brown.edu/Research/Istrail_Lab/sorin.php"}
 - 
   id: 15
   name: "Serafim"
