@@ -1,0 +1,121 @@
+# Plugins
+gems:
+- jekyll-sitemap
+safe: false
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+
+
+# Site Settings
+title: "RECOMB Conference"
+email: "recomb-conference@gmail.com"
+description: "RECOMB is  Conference on Biological Sequence Analysis"
+baseurl: ""
+url: "https://recomb-conference.github.io"
+permalink: "/blog/:title"
+googleAnalyticsTrackingId: ""
+googleAnalyticsSiteUrl: "recomb-conference.github.io"
+siteVerification: ""
+
+# Organizer Info
+organizerName: "RECOMB"
+organizerAlternateName: "RECOMB"
+organizerDescription: "Algorithm development for analyzing sequence data"
+organizerEmail: "recomb-conference@gmail.com"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "http://www.recomb.org"
+
+# Head
+metaKeywords: "recomb, algorithm"
+twitterAccount: "@recombconf"
+# socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/team/", text: "Steering Committee"}
+ - {permalink: "/satellites/", text: "Satellites"}
+ - {permalink: "/history/", text: "Past RECOMBs"}
+ - {permalink: "/awards/", text: "Awards"}
+bottomNavigationLinks:
+# - {link: "https://bit.ly/dfua-c4p", text: "Submit a paper"}
+rightNavigationButtons:
+# - {link: "https://bit.ly/dfua-c4p", text: "Submit a paper"}
+
+# Hero Block
+heroImage: "hero.jpg"
+heroTitle: "RECOMB 2023"
+heroSubTitle: "The 27th RECOMB Conference on Biological Sequence Analysis"
+eventDate: "April 14-15, 2023"
+eventLocation: "İstanbul, Turkey"
+#typeoutTextValues: '"2023"'
+#typeoutFallback: "2023"
+heroButtons:
+ #- {link: "https://bit.ly/dfua-c4p", text: "Submit a paper"}
+ #- {permalink: "/#tickets", text: "Attend RECOMB SEQ 2023"}
+
+# About Block
+aboutTitle: "About RECOMB"
+# aboutBlock:
+# - {title: "RECOMB-SEQ", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+# - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+
+# Latest News Block
+latestNewsTitle: "Latest news"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersButtonText: "See all speakers"
+
+
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "What's Up?"
+twitterHashTag: "recomb2023"
+twitterFeed: " https://twitter.com/recomb2023"
+
+
+
+# Footer
+socialLinks:
+ - {link: "https://twitter.com/recomb2023", icon: "twitter"}
+# - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://www.youtube.com/channel/UCYdQZ9egzBoszApB4ksjE3g/playlists", icon: "youtube"}
+ - {permalink: "/feed.xml", icon: "rss"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "https://recomb2023.bilkent.edu.tr", text: "RECOMB 2023"}
+ -
+  # title: "Contacts"
+  # links:
+  # - {link: "mailto:recomb-conference@gmail.com", text: "recomb-conference@gmail.com"}
+ -
+  title: "Policies"
+  links:
+   - {permalink: "/coi/", text: "Conflict-of-interest Policy"}
+
+# Collections
+collections:
+  paper-calls:
+    output: true
+# Speakers List Block
+showSessions: false
+
+

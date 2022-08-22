@@ -1,0 +1,163 @@
+- 
+  id: 0
+  name: "Vineet"
+  surname: "Bafna"
+  title: "Steering Committee Member"
+  thumbnailUrl: vineet_bafna.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/VineetBafna3"}
+    - {name: "github", link: "https://github.com/vbafna"}
+    - {name: "site", link: "http://proteomics.ucsd.edu/vbafna/"}
+- 
+  id: 1
+  name: "Bonnie"
+  surname: "Berger"
+  title: "Steering Committee Chair"
+  thumbnailUrl: bonnie_berger.png
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/lab_berger"}
+    - {name: "site", link: "https://people.csail.mit.edu/bab/"}
+- 
+  id: 2
+  name: "Eleazar"
+  surname: "Eskin"
+  title: "Steering Committee Member"
+  thumbnailUrl: eleazar_eskin.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/ZarEskinCompMed"}
+    - {name: "site", link: "http://web.cs.ucla.edu/~eeskin/"}
+- 
+  id: 3
+  name: "Teresa"
+  surname: "Przytycka"
+  title: "Steering Committee Member"
+  thumbnailUrl: teresa_przytycka.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/przytycka"}
+    - {name: "site", link: "https://www.ncbi.nlm.nih.gov/CBBresearch/Przytycka/index.cgi"}
+
+- 
+  id: 4
+  name: "Cenk"
+  surname: "Sahinalp"
+  title: "Steering Committee Member"
+  thumbnailUrl: cenk_sahinalp.png
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/cenksahinalp"}
+    - {name: "site", link: "https://ccr.cancer.gov/staff-directory/s-cenk-sahinalp"}
+- 
+  id: 5
+  name: "Roded"
+  surname: "Sharan"
+  title: "Steering Committee Member"
+  thumbnailUrl: roded_sharan.jpg
+  team: true
+  social: 
+    - {name: "site", link: "https://www.cs.tau.ac.il/~roded/"}
+- 
+  id: 6
+  name: "Martin"
+  surname: "Vingron"
+  title: "Steering Committee Member"
+  thumbnailUrl: martin_vingron.jpg
+  team: true
+  social: 
+    - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
+- 
+  id: 7
+  name: "Richard"
+  surname: "Karp"
+  title: "Former Steering Committee Member"
+  thumbnailUrl: ErcumentCicek.jpg
+  preTeam: true
+  social: 
+    - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
+- 
+  id: 8
+  name: "Thomas"
+  surname: "Lengauer"
+  title: "Former Steering Committee Member"
+  thumbnailUrl: ErcumentCicek.jpg
+  preTeam: true
+  social: 
+    - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
+- 
+  id: 9
+  name: "Pavel"
+  surname: "Pevzner"
+  title: "Former Steering Committee Member"
+  thumbnailUrl: ErcumentCicek.jpg
+  preTeam: true
+  social: 
+    - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
+- 
+  id: 10
+  name: "Ron"
+  surname: "Shamir"
+  title: "Former Steering Committee Member"
+  thumbnailUrl: ErcumentCicek.jpg
+  preTeam: true
+  social: 
+    - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
+- 
+  id: 11
+  name: "Terry"
+  surname: "Speed"
+  title: "Former Steering Committee Member"
+  thumbnailUrl: ErcumentCicek.jpg
+  preTeam: true
+  social: 
+    - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
+- 
+  id: 12
+  name: "Michael"
+  surname: "Waterman"
+  title: "Former Steering Committee Member"
+  thumbnailUrl: ErcumentCicek.jpg
+  preTeam: true
+  social: 
+    - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
+- 
+  id: 13
+  name: "Michal"
+  surname: "Linial"
+  title: "Former Steering Committee Member"
+  thumbnailUrl: ErcumentCicek.jpg
+  preTeam: true
+  social: 
+    - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
+- 
+  id: 14
+  name: "Sorin"
+  surname: "Istrail"
+  title: "Former Steering Committee Member"
+  thumbnailUrl: ErcumentCicek.jpg
+  preTeam: true
+  social: 
+    - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
+- 
+  id: 15
+  name: "Serafim"
+  surname: "Batzoglou"
+  title: "Former Steering Committee Member"
+  thumbnailUrl: ErcumentCicek.jpg
+  preTeam: true
+  social: 
+    - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
+ 
+
