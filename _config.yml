@@ -42,6 +42,7 @@ navigationLinks:
  - {permalink: "/satellites/", text: "Satellites"}
  - {permalink: "/history/", text: "History"}
  - {permalink: "/awards/", text: "Awards"}
+ - {permalink: "https://sites.google.com/view/recombconferences", text: "Photo Albums"}
 bottomNavigationLinks:
 # - {link: "https://bit.ly/dfua-c4p", text: "Submit a paper"}
 rightNavigationButtons:
