@@ -94,7 +94,7 @@ twitterFeed: " https://twitter.com/recomb2023"
 # Footer
 socialLinks:
  - {link: "https://twitter.com/recomb2023", icon: "twitter"}
- - {link: "https://www.youtube.com/channel/UCYdQZ9egzBoszApB4ksjE3g/playlists", icon: "youtube"}
+ - {link: "https://www.youtube.com/channel/UCwPPTWrBsd0xfW2gjpCHNLA/featured", icon: "youtube"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
