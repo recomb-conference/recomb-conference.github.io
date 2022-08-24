@@ -8,9 +8,9 @@ isStaticPost: true
 
 RECOMB Satellite Conference Series was founded by Pavel Pevzner in 2001. Today, it consists of focused meetings covering various specialized aspects of bioinformatics.
 
-### Currently Active Satellite Conferences
+#### Currently Active Satellite Conferences
 
-#### RECOMB-Seq: RECOMB Satellite Conference on Biological Sequence Analysis
+##### RECOMB-Seq: RECOMB Satellite Conference on Biological Sequence Analysis
 
 RECOMB-seq was founded in 2011 as a response to the expanding applications of high-throughput sequencing as a tool of basic science and biomedicine. The conference gathered leading researchers in computational genomics and genomic biology to discuss emerging frontiers in algorithm development for sequencing data. The emphasis is on applying computational approaches to improve analysis, interpretation and data management. Since then, the scope of RECOMB-seq has expanded beyond sequencing data to include assembled data as well, all the while focusing on methodological developments. 
 
@@ -21,35 +21,35 @@ RECOMB-seq was founded in 2011 as a response to the expanding applications of hi
 - Former Steering Committee Members: Inanc Birol, Michael Brudno, Eran Halperin, Pavel Pevzner, Benjamin Raphael, S. Cenk Şahinalp
 
 
-#### RECOMB-CCB: RECOMB Satellite Conference on Computatioal Cancer Biology
+##### RECOMB-CCB: RECOMB Satellite Conference on Computatioal Cancer Biology
 
-#### RECOMB-CG: RECOMB Satellite Conference on Comparative Genomics
-
-
-#### RECOMB-CG: RECOMB Satellite Conference on Genetics
+##### RECOMB-CG: RECOMB Satellite Conference on Comparative Genomics
 
 
-#### RECOMB-BE: RECOMB Satellite Conference on Bioinformatics Education
+##### RECOMB-CG: RECOMB Satellite Conference on Genetics
+
+
+##### RECOMB-BE: RECOMB Satellite Conference on Bioinformatics Education
 
 
 
-### Other Satellite Conferences
+#### Other Satellite Conferences
 
-####  RECOMB Systems Biology
+#####  RECOMB Systems Biology
 
-####   RECOMB SNPs and Haplotypes
-
-
-#### RECOMB Satellite Conference on Computational Proteomics
+#####   RECOMB SNPs and Haplotypes
 
 
-#### DREAM (Dialogue for Reverse Engineering Assessments and Methods)
-
-#### RECOMB Satellite Conference on Open Problems in Algorithmic Biology
-
-#### RECOMB Satellite Workshops on Regulatory Genomics
+##### RECOMB Satellite Conference on Computational Proteomics
 
 
-#### DNA Sequencing
+##### DREAM (Dialogue for Reverse Engineering Assessments and Methods)
+
+##### RECOMB Satellite Conference on Open Problems in Algorithmic Biology
+
+##### RECOMB Satellite Workshops on Regulatory Genomics
+
+
+##### DNA Sequencing
 
 
