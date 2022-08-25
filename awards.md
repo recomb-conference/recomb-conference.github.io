@@ -24,6 +24,7 @@ isStaticPost: true
 
 *   2021: Barış Ekim, Bonnie Berger and Rayan Chikhi. ["Minimizer-space de Bruijn graphs: whole-genome assembly of long reads in minutes on a personal computer"](https://www.sciencedirect.com/science/article/pii/S240547122100332X).
 *   2018: Ariya Shajii, Ibrahim Numanagić and Bonnie Berger. ["Latent variable model for aligning barcoded short-reads improves downstream analyses"](https://www.sciencedirect.com/science/article/pii/S2405471218302849).
+*   2001: Mathieu Blanchette. ["Algorithms for phylogenetic fingerprinting"](https://dl.acm.org/doi/10.1145/369133.369170).
 
 #### Best Poster Awards
 

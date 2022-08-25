@@ -1,4 +1,4 @@
-# RECOMB Website Template
+# RECOMB Website 
 
 ### About
 This project is the website template and content used for RECOMB.
