@@ -31,157 +31,138 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
    - Program Committee Chair: Itsik Pe'er
    - Organization Committee: Vineet Bafna (chair), Vikas Bansal, Jocelyn Bernardo, Melissa Gymrek, Siavash Mirarab, Glenn Tesler, Kaiyuan Zhu
    - Keynote Speakers: Regina Barzilay, Howard Y. Chang, John Chodera, Lenore Cowen, John Marioni, Bing Ren, Wenyi Wang
-   - [Proceedings](https://link.springer.com/book/10.1007/978-3-031-04749-7)
-   - Photo Album
+   - [Proceedings](https://link.springer.com/book/10.1007/978-3-031-04749-7){:target="_blank"}
  - [RECOMB 2021](): Padova, Italy (virtual), August 29 – September 1, 2021
    - Program Committee Chair: Jian Peng
-   - Organization Committee: Fabio Vandin (co-chair), Jian Ma (co-chair)
+   - Organization Committee: Fabio Vandin (co-chair), Jian Ma (co-chair), Matteo Comin, Barbara Di Camillo, Leonardo Pellegrina, Cinzia Pizzi
    - Keynote Speakers: Trey Ideker, Ming Li, Katie Pollard, Aviv Regev, Marie-France Sagot, Mona Singh
-   - [Proceedings](https://www.liebertpub.com/toc/cmb/29/2)
-   - Photo Album
+   - [Proceedings](https://www.liebertpub.com/toc/cmb/29/2){:target="_blank"}
  - [RECOMB 2020](): Padova, Italy (virtual), June 22-25, 2020
    - Program Committee Chair: Russell Schwartz
-   - Organization Committee: Fabio Vandin (chair)
+   - Organization Committee: Fabio Vandin (chair), Matteo Comin, Barbara Di Camillo, Leonardo Pellegrina, Cinzia Pizzi
    - Keynote Speakers: Manuela Helmer-Citterich, Michal Linial, Satoru Miyano, Pavel Pevzner, Eran Segal, Russ Altman
-   - [Proceedings](https://link.springer.com/book/10.1007/978-3-030-45257-5)
-   - Photo Album
+   - [Proceedings](https://link.springer.com/book/10.1007/978-3-030-45257-5){:target="_blank"}
  - [RECOMB 2019](): Washington, DC, United States, May 5-8, 2019
    - Program Committee Chair: Lenore J. Cowen
    - Organization Committee: Max Alekseyev (co-chair), Teresa Przytycka (co-chair)
    - Keynote Speakers: Carlos D. Bustamante, Rachel Kolodny, Mihai Pop, Franziska Michor, Eytan Ruppin, Alfonso Valencia
-   - [Proceedings](https://link.springer.com/book/10.1007/978-3-030-17083-7)
-   - Photo Album
+   - [Proceedings](https://link.springer.com/book/10.1007/978-3-030-17083-7){:target="_blank"}
  - [RECOMB 2018](): Paris, France, April 21-24, 2018
    - Program Committee Chair: Benjamin J. Raphael
    - Organization Committee: Yann Ponty (co-chair), Mireille Regnier (co-chair)
    - Keynote Speakers: Peter Campbell, Ron Shamir, Sarah Teichmann, Nevan Krogan, Francois Spitz, Tandy Warnow
-   - [Proceedings](https://link.springer.com/book/10.1007/978-3-319-89929-9)
-   - Photo Album
+   - [Proceedings](https://link.springer.com/book/10.1007/978-3-319-89929-9){:target="_blank"}
  - [RECOMB 2017](https://recomb-conference.github.io/recomb2017/){:target="_blank"}: Hong Kong, May 3-7, 2017
    - Program Committee Chair: S. Cenk Sahinalp
-   - Organization Committee: Siu Ming Yiu (chair)
+   - Organization Committee: Siu Ming Yiu (chair), Kevin Yip, 
    - Keynote Speakers: Colin Collins, Joe Gray, Laxmi Parida, Ben Raphael, Michael Schnall-Levin, Jun Wang
-   - [Proceedings](https://link.springer.com/book/10.1007/978-3-319-56970-3)
-   - Photo Album
+   - [Proceedings](https://link.springer.com/book/10.1007/978-3-319-56970-3){:target="_blank"}
  - [RECOMB 2016](): Santa Monica, CA, United States, April 17-21, 2016
    - Program Committee Chair: Mona Singh
    - Organization Committee: Eleazar Eskin (chair)
    - Keynote Speakers: Colin Collins, Joe Gray, Laxmi Parida, Ben Raphael, Michael Schnall-Levin, Jun Wang
-   - [Proceedings](https://link.springer.com/book/10.1007/978-3-319-31957-5)
-   - Photo Album
+   - [Proceedings](https://link.springer.com/book/10.1007/978-3-319-31957-5){:target="_blank"}
  - [RECOMB 2015](): Warsaw, Poland, April 12-15, 2015
    - Program Committee Chair: Teresa M. Przytycka
    - Organization Committee: Jerzy Tiuryn (cochair), Bartek Wilczyński (co-chair)
    - Keynote Speakers: Madan Babu, Bonnie Berger, M. Magda Konarska, Michael Levitt, Bas van Steensel, Wacław Szybalski
-   - [Proceedings](https://link.springer.com/book/10.1007/978-3-319-16706-0)
-   - [Photo Album](https://photos.app.goo.gl/LQHiB87GdGtQAvd98) &nbsp; &nbsp; [Satellites Photo Album](https://photos.app.goo.gl/xms1y1EyzW8cpEKr6)
+   - [Proceedings](https://link.springer.com/book/10.1007/978-3-319-16706-0){:target="_blank"}
+   - [Photo Album](https://photos.app.goo.gl/LQHiB87GdGtQAvd98){:target="_blank"} &nbsp; &nbsp; [Satellites Photo Album](https://photos.app.goo.gl/xms1y1EyzW8cpEKr6){:target="_blank"}
  - [RECOMB 2014](): Pittsburgh, PA, United States, April 2-5, 2014
    - Program Committee Chair: Roded Sharan
    - Organization Committee: Panayiotis (Takis) Benos (co-chair), Russell Schwartz (co-chair)
    - Keynote Speakers: Ian T. Baldwin, Atul Butte, JJ Collins, Trey Ideker, Tom Mitchell, Sarah A. Tishkoff
-   - [Proceedings](https://link.springer.com/book/10.1007/978-3-319-05269-4)
-   - [Photo Album](https://photos.app.goo.gl/75pFknP7epoHv3fv5)
- - [RECOMB 2013](https://recomb-conference.github.io/recomb2013/): Beijing, China, April 7-10, 2013
+   - [Proceedings](https://link.springer.com/book/10.1007/978-3-319-05269-4){:target="_blank"}
+   - [Photo Album](https://photos.app.goo.gl/75pFknP7epoHv3fv5){:target="_blank"}
+ - [RECOMB 2013](https://recomb-conference.github.io/recomb2013/){:target="_blank"}: Beijing, China, April 7-10, 2013
    - Program Committee Chair: Fengzhu Sun
-   - Organization Committee:  Xuegong Zhang
+   - Organization Committee:  Xuegong Zhang (co-chair), Minghua Deng (co-chair), Rui Jiang (co-chair), Jin Gu, Jingdong Han, Ruiqiang Li, Xuan Li, Yixue Li, Jingchu Luo, Geng Tian, Xiujie Wang, Peiheng Zhang
    - Keynote Speakers: Scott Fraser, Takashi Gojobori, Deborah Nickerson, Nadia A. Rosenthal, Chung-I Wu, Sunny Xie
-   - [Proceedings](https://link.springer.com/book/10.1007/978-3-642-37195-0)
-   - [Photo Album](https://photos.app.goo.gl/QYLrtaiViKBDEwGd8)
- - [RECOMB 2012](https://recomb-conference.github.io/recomb2012/): Barcelona, Spain, April 21-24, 2012
+   - [Proceedings](https://link.springer.com/book/10.1007/978-3-642-37195-0){:target="_blank"}
+   - [Photo Album](https://photos.app.goo.gl/QYLrtaiViKBDEwGd8){:target="_blank"}
+ - [RECOMB 2012](https://recomb-conference.github.io/recomb2012/){:target="_blank"}: Barcelona, Spain, April 21-24, 2012
    - Program Committee Chair: Benny Chor
-   - Organization Committee: Rodric Guigo (chair)
+   - Organization Committee: Rodric Guigo (chair), Josep F Abril, Francisco Cámara, Eduardo Eyras, Pedro Ferreira, Toni Gabaldón, Cédric Notredame, Gabriel Valiente, Blanka Wysocka
    - Keynote Speakers: Richard Durbin, Eileen Furlong, Thomas Gingeras, Alfonso Valencia, Ada E. Yonath
-   - [Proceedings](https://link.springer.com/book/10.1007/978-3-642-29627-7)
-   - Photo Album
- - [RECOMB 2011](https://recomb-conference.github.io/recomb2011/): Vancouver, BC, Canada, March 28-31, 2011
+   - [Proceedings](https://link.springer.com/book/10.1007/978-3-642-29627-7){:target="_blank"}
+ - [RECOMB 2011](https://recomb-conference.github.io/recomb2011/){:target="_blank"}: Vancouver, BC, Canada, March 28-31, 2011
    - Program Committee Chair: Vineet Bafna
-   - Organization Committee: S. Cenk Sahinalp (chair)
+   - Organization Committee: S. Cenk Sahinalp (chair), Cedric Chauve, Martin Ester, Inanc Birol, Fiona Brinkman, Steven Jones, Anne Condon, Jack Chen, Artem Cherkasov, Colin Collins, Tamon Stephen, Stas Volik, Wyeth Wasserman, Kay Wiese
    - Keynote Speakers: Evan Eichler, Daphne Koller, Marco Marra, Karen Nelson, Elaine Mardis, Joseph Nadeau
-   - [Proceedings](https://link.springer.com/book/10.1007/978-3-642-20036-6)
-   - [Photo Album](https://photos.app.goo.gl/aJYV6tRe11vHFTCTA)
+   - [Proceedings](https://link.springer.com/book/10.1007/978-3-642-20036-6){:target="_blank"}
+   - [Photo Album](https://photos.app.goo.gl/aJYV6tRe11vHFTCTA){:target="_blank"}
  - [RECOMB 2010](): Lisbon, Portugal, August 12-15, 2010 
    - Program Committee Chair: Bonnie Berger
    - Organization Committee: Arlindo Oliveira (chair)
    - Keynote Speakers: Cecilia Arraiano, David Bartel, Isaac Kohane, Phil Kapranov, Norbert Perrimon Mona Singh
-   - [Proceedings](https://link.springer.com/book/10.1007/978-3-642-12683-3)
-   - Photo Album
+   - [Proceedings](https://link.springer.com/book/10.1007/978-3-642-12683-3){:target="_blank"}
  - [RECOMB 2009](): Tucson, AZ, United States, May 18-21, 2009
    - Program Committee Chair: Serafim Batzoglou
    - Organization Committee: John Kececioglu (chair)
    - Keynote Speakers: Carlos D. Bustamante, Rade Drmanac, Mark Gerstein, Eran Halperin, Michael Hammer, Joanna Mountain, Stephen Quake, Mostafa Ronaghi, Pardis Sabeti, Michael Snyder
-   - [Proceedings](https://link.springer.com/book/10.1007/978-3-642-02008-7)
-   - Photo Album
- - [RECOMB 2008](https://recomb-conference.github.io/recomb2008/: Singapore, March 30 - April 2, 2008
+   - [Proceedings](https://link.springer.com/book/10.1007/978-3-642-02008-7){:target="_blank"}
+ - [RECOMB 2008](https://recomb-conference.github.io/recomb2008/){:target="_blank"}: Singapore, March 30 - April 2, 2008
    - Program Committee Chair: Martin Vingron
-   - Organization Committee: Limsoon Wong (chair)
+   - Organization Committee: Limsoon Wong (chair), Agnes Ang, Lay Khim Chng, Kwok Pui Choi, Alexia Leong, Hon Wai Leong, Wai Kin Leong, Stefanie Ng, Wing-Kin Sung, Martti Tammi, Siang Yong Yap, Xin Chen, Chee Keong Kwoh, Guillaume Bourque, Alan Christoffels, Dong-Yup Lee, Gunaretnam Rajagopal
    - Keynote Speakers: Edison Liu, Sang Yup Lee, Andrei Lupas, Howard Cedar, Vivian Cheung, Temple F. Smith, Suzanne Cory
-   - [Proceedings](https://link.springer.com/book/10.1007/978-3-540-78839-3)
-   - Photo Album
+   - [Proceedings](https://link.springer.com/book/10.1007/978-3-540-78839-3){:target="_blank"}
  - [RECOMB 2007](): Oakland, CA, United States, April 21-25, 2007
    - Program Committee Chair: Terry Speed
    - Organization Committee: Sandrine Dudoit
    - Keynote Speakers: Elizabeth H. Blackburn, Jennifer Marshall Graves, Yishi Jin, Jay D. Keasling, Harry F. Noller, Patrick O. Brown, Abby Dernburg, Aviv Regev
-   - [Proceedings](https://link.springer.com/book/10.1007/978-3-540-71681-5)
-   - Photo Album
- - [RECOMB 2006](https://recomb-conference.github.io/recomb2006/): Venice, Italy, April 2-5, 2006
+   - [Proceedings](https://link.springer.com/book/10.1007/978-3-540-71681-5){:target="_blank"}
+ - [RECOMB 2006](https://recomb-conference.github.io/recomb2006/){:target="_blank"}: Venice, Italy, April 2-5, 2006
    - Program Committee Chair: Alberto Apostolico
-   - Organization Committee: Concettina Guerra
+   - Organization Committee: Concettina Guerra (chair), Matteo Comin, Eleazar Eskin, Raffaele Giancarlo, Giuseppe Lancia, Cinzia Pizzi, Angela Visco, Nicola Vitacolonna
    - Keynote Speakers: Anne-Claude Gavin, David Haussler, Ajay Royyuru, David Sankoff, Michael Waterman, Carl Zimmer, Roman Zubarev
-   - [Proceedings](https://link.springer.com/book/10.1007/11732990)
-   - Photo Album
+   - [Proceedings](https://link.springer.com/book/10.1007/11732990){:target="_blank"}
  - [RECOMB 2005](): Cambridge, MA, United States, May 14-18, 2005
    - Program Committee Chair: Satoru Miyano
    - Organization Committee: Jill P. Mesirov (co-chair), Simon Kasif (co-chair)
    - Keynote Speakers: David Altshuler, Wolfgang Baumeister, James Collins, Charles DeLisi, Jonathan King, Eric Lander, Michael Levine, Susan Lindquist
-   - [Proceedings](https://link.springer.com/book/10.1007/b135594)
-   - Photo Album
- - [RECOMB 2004](https://recomb-conference.github.io/recomb2004/): San Diego, CA, United States, March 27-31, 2004
+   - [Proceedings](https://link.springer.com/book/10.1007/b135594){:target="_blank"}
+ - [RECOMB 2004](https://recomb-conference.github.io/recomb2004/){:target="_blank"}: San Diego, CA, United States, March 27-31, 2004
    - Program Committee Chair: Dan Gusfield
-   - Organization Committee: Philip E. Bourne (chair)
+   - Organization Committee: Philip E. Bourne (chair), Kristine Briedis, Apostol Gramada, Stephanie Hagstrom, Nancy Jensen, Dana Jermanis, Chris Smith, Peggy Wagner
    - Keynote Speakers: Carlos D. Bustamante, Russell Doolittle, Andrew Fire, Richard Karp, William McGinnis, Deborah Nickerson, Martin Nowak, Christine Orengo, Elizabeth Winzeler
-   - [Proceedings](https://dl.acm.org/doi/proceedings/10.1145/974614)
-   - Photo Album
- - [RECOMB 2003](https://recomb-conference.github.io/recomb2003/): Berlin, Germany, April 10-14, 2003
+   - [Proceedings](https://dl.acm.org/doi/proceedings/10.1145/974614){:target="_blank"}
+ - [RECOMB 2003](https://recomb-conference.github.io/recomb2003/){:target="_blank"}: Berlin, Germany, April 10-14, 2003
    - Program Committee Chair: Webb Miller
-   - Organization Committee: Martin Vingron (chair)
+   - Organization Committee: Martin Vingron (chair), Patricia Béziat, Alexander Schliep, Rainer Spang, Thomas Steinke
    - Keynote Speakers: Edward Trifonov, Christiane Nüsslein-Volhard, Árpád Furka, Andrew Clark, David Haussler, Arthur Lesk, Dieter Oesterhelt, Terry Speed, Kari Stefansson
-   - [Proceedings](https://dl.acm.org/doi/proceedings/10.1145/640075?id=31)
-   - [Photo Album](https://photos.app.goo.gl/TzpX39D6EgFSq1v77)
- - [RECOMB 2002](): Washington, DC, United States, April 18-21, 2002
+   - [Proceedings](https://dl.acm.org/doi/proceedings/10.1145/640075?id=31){:target="_blank"}
+   - [Photo Album](https://photos.app.goo.gl/TzpX39D6EgFSq1v77){:target="_blank"}
+ - [RECOMB 2002](https://recomb-conference.github.io/recomb2002/){:target="_blank"}: Washington, DC, United States, April 18-21, 2002
    - Program Committee Chair: Gene Myers
-   - Organization Committee: Sridhar Hannenhalli (chair)
+   - Organization Committee: Sridhar Hannenhalli (chair), Kathy Ambrose, Liliana Florea, George Komatsoulis, Jason Miller, Morgan Park, Michelle Perry, Russell Schwartz, Brian Walenz
    - Keynote Speakers: Ruben Abagyan, Ali Brivanlou, Evan Eichler, Harold Garner, David Ho, Gerry Rubin, Craig Venter, Marc Vidal
-   - [Proceedings](https://dl.acm.org/doi/proceedings/10.1145/565196)
-   - Photo Album
- - [RECOMB 2001](https://recomb-conference.github.io/recomb2001/): Montreal, Canada, April 22-25, 2001
+   - [Proceedings](https://dl.acm.org/doi/proceedings/10.1145/565196){:target="_blank"}
+ - [RECOMB 2001](https://recomb-conference.github.io/recomb2001/){:target="_blank"}: Montreal, Canada, April 22-25, 2001
    - Program Committee Chair: Thomas Lengauer
-   - Organization Committee: David Sankoff (chair)
+   - Organization Committee: David Sankoff (chair), Nadia El-Mabrouk, Michael Hallett, François Major, Thomas Hagedorn, Theo Mevissen, Louis Pelletier, Ralf Zimmer 
    - Keynote Speakers: George Church, Phillip Sharp, Mark Adams, Roger Brent, Franz Lang, Klaus Lindpaintner, Yvonne Martin, Mark Ptashne, Matthias Wilm
-   - [Proceedings](https://dl.acm.org/doi/proceedings/10.1145/369133)
-   - Photo Album
- - [RECOMB 2000](https://recomb-conference.github.io/recomb2000/): Tokyo, Japan, April 8-11, 2000
+   - [Proceedings](https://dl.acm.org/doi/proceedings/10.1145/369133){:target="_blank"}
+ - [RECOMB 2000](https://recomb-conference.github.io/recomb2000/){:target="_blank"}: Tokyo, Japan, April 8-11, 2000
    - Program Committee Chair: Ron Shamir
-   - Organization Committee: Satoru Miyano (chair)
+   - Organization Committee: Satoru Miyano (chair), Tatsuya Akutsu, Nir Friedman, Osamu Maruyama, Kenta Nakai, Asako Suzuki, Toshihisa Takagi, Ayako Tomiyasu 
    - Keynote Speakers: Minoru Kanehisa, Hans Lehrach, Svante Paabo, Eric Davidson, Takashi Gojobori, Leroy Hood, Walter Gilbert, Yusuke Nakamura
-   - [Proceedings](https://dl.acm.org/doi/proceedings/10.1145/332306)
-   - [Photo Album](https://photos.app.goo.gl/XrsYJTmTk2XwzXyX9)
- - [RECOMB 1999](https://recomb-conference.github.io/recomb1999/):  Lyon, France, April 11-14, 1999
+   - [Proceedings](https://dl.acm.org/doi/proceedings/10.1145/332306){:target="_blank"}
+   - [Photo Album](https://photos.app.goo.gl/XrsYJTmTk2XwzXyX9){:target="_blank"}
+ - [RECOMB 1999](https://recomb-conference.github.io/recomb1999/){:target="_blank"}:  Lyon, France, April 11-14, 1999
    - Program Committee Chair: Sorin Istrail
-   - Organization Committee: Mireille Regnier (chair)
+   - Organization Committee: Mireille Regnier (chair), Florence Balax, Daniel Kahn, Gregory Kucherov,  Sophie Schbath,  Annick Theis-Viémont 
    - Keynote Speakers: Minoru Kanehisa, Hans Lehrach, Svante Paabo, Eric Davidson, Takashi Gojobori, Leroy Hood, Walter Gilbert, Yusuke Nakamura
-   - [Proceedings](https://dl.acm.org/doi/proceedings/10.1145/299432)
-   - Photo Album
- - [RECOMB 1998](https://recomb-conference.github.io/recomb1998/): New York, NY, United States, March 22-25, 1998
+   - [Proceedings](https://dl.acm.org/doi/proceedings/10.1145/299432){:target="_blank"}
+ - [RECOMB 1998](https://recomb-conference.github.io/recomb1998/){:target="_blank"}: New York, NY, United States, March 22-25, 1998
    - Program Committee Chair: Pavel Pevzner
-   - Organization Committee: Gary Benson (chair)
+   - Organization Committee: Gary Benson (chair), Craig Benham, Martin Farach, Eugene Kolker
    - Keynote Speakers: Ruben Abagyan, Charles Cantor, David Cox, Ron Davis, Klaus Gubernator, Joshua Lederberg, Michael Levitt, David Schwartz, John Yates
-   - [Proceedings](https://dl.acm.org/doi/proceedings/10.1145/279069)
-   - [Photo Album](https://photos.app.goo.gl/SrhyL9LpDuxYLfh68)
- - [RECOMB 1997](https://recomb-conference.github.io/recomb1997/): Santa Fe, NM, United States, January 20-23, 1997
+   - [Proceedings](https://dl.acm.org/doi/proceedings/10.1145/279069){:target="_blank"}
+   - [Photo Album](https://photos.app.goo.gl/SrhyL9LpDuxYLfh68){:target="_blank"}
+ - [RECOMB 1997](https://recomb-conference.github.io/recomb1997/){:target="_blank"}: Santa Fe, NM, United States, January 20-23, 1997
    - Program Committee Chair: Michael Waterman
-   - Organization Committee: Sorin Istrail (chair)
+   - Organization Committee: Sorin Istrail (chair), Bonnie Berger, Chris Fields, William Hart, Sylvia Spengler
    - Keynote Speakers: Ruben Abagyan, Charles Cantor, David Cox, Ron Davis, Klaus Gubernator, Joshua Lederberg, Michael Levitt, David Schwartz, John Yates
-   - [Proceedings](https://dl.acm.org/doi/proceedings/10.1145/267521)
-   - Photo Album
+   - [Proceedings](https://dl.acm.org/doi/proceedings/10.1145/267521){:target="_blank"}
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
