@@ -20,10 +20,12 @@ isStaticPost: true
 *   2012: Patrick Holloway, Krister Swenson, David Ardell and Nadia El-Mabrouk for the contribution ["Evolution of genome organization by duplication and loss: a linear programming approach"](https://link.springer.com/chapter/10.1007/978-3-642-29627-7_10).
 *   2011: Shay Zakov, Yoav Goldberg, Michael Elhadad and Michal Ziv-Ukelson. ["Rich parametrization improves RNA structure prediction"](https://www.liebertpub.com/doi/10.1089/cmb.2011.0184).
 
-#### Best Student Paper Awards
+#### Best Student / Young Scientist Paper Awards
 
 *   2021: Barış Ekim, Bonnie Berger and Rayan Chikhi. ["Minimizer-space de Bruijn graphs: whole-genome assembly of long reads in minutes on a personal computer"](https://www.sciencedirect.com/science/article/pii/S240547122100332X).
 *   2018: Ariya Shajii, Ibrahim Numanagić and Bonnie Berger. ["Latent variable model for aligning barcoded short-reads improves downstream analyses"](https://www.sciencedirect.com/science/article/pii/S2405471218302849).
+*   2004: Eran Segal and Roded Sharan. ["A discriminative model for identifying spatial cis-regulatory modules"](https://dl.acm.org/doi/10.1145/974614.974634).
+*   2003: Gill Bejerano. ["Efficient exact value computation and applications to biosequence analysis"](https://dl.acm.org/doi/10.1145/640075.640080).
 *   2001: Mathieu Blanchette. ["Algorithms for phylogenetic fingerprinting"](https://dl.acm.org/doi/10.1145/369133.369170).
 
 #### Best Poster Awards
@@ -48,6 +50,11 @@ isStaticPost: true
 *   2011:
     *   Chen Yanover and Philip Bradley. "Large-scale characterization of binding landscapes using structural simulations: application to C2H2 zinc-finger transcription factors and MHC proteins".
     *   Raheleh Salari and Teresa M Przytycka. "The effect of SNPs on Boltzmann distribution for RNA secondary structure".
+*   2004: 
+    *   Matthew W. Dimmic, Melissa J. Todd, Carlos D. Bustamante and Rasmus Nielsen. "Detecting correlated amino acid substitutions using Bayesian phylogenetic techniques".
+    *   Boris E. Shakhnovich, Eric Deeds, Charles Delisi, and Eugene Shakhnovich. "Protein structure and evolutionary history determine sequence space topology".
+*   2003: Andres Figueroa, James Borneman and Tao Jiang. "Clustering binary fingerprint vectors with missing values for DNA array data analysis".
+
 
 #### Test of Time Awards
 
