@@ -20,11 +20,9 @@ such conflicts immediately (by using EasyChair to declare themselves
 in conflict -- no reason need be given).  In addition, PC members are
 encouraged to declare a COI in situations not listed below, but
 in which they feel it might be difficult for them to remain impartial.
-Finally, PC co-chairs are to take COIs even more seriously, if possible,
+Finally, PC chairs are to take COIs even more seriously, if possible,
 than other PC members, as they have final say over the disposition of
-each submission. In particular, if one co-chair submits a paper, the other
-co-chair will handle this in a way that reviewers are not disclosed to the
-author, i.e. outside the regular EasyChair pipeline.
+each submission. 
 
 
 You have a COI with:
@@ -82,7 +80,7 @@ On the other hand you do not automatically have a COI just because
   - you got your PhD from the same lab as one of the authors 10 years ago
   - etc.
 
-If you have doubts, please discuss the issue with the PC chairs.
+If you have doubts, please discuss the issue with the PC chair or the Steering Committee.
 
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
