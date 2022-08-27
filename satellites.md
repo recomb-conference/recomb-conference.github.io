@@ -30,7 +30,7 @@ RECOMB-seq was founded in 2011 as a response to the expanding applications of hi
 
 This workshop brings together leading researchers in the mathematical, computational, and life sciences to discuss emerging frontiers in computational cancer research. Advent of exciting technologies such as single-cell multi-omics,  spatial sequencing, and digital pathology opens new horizons for the analysis of tumor tissues. New analysis tools reveal novel aspects of cancer complexity, including the tumor mutational and phenotypic landscape, evolutionary history, or interactions with the microenvironment. The emphasis of all contributed work will be on applying algorithmic, mathematical, and statistical approaches to improve our understanding of cancer and on the development of useful, effective, and efficient new methods in this area.
 
-- Steering Committee: Benjamin Raphael
+- Steering Committee: Joe Gray, Michael Hallett, Benjamin Raphael, Sohrab Shah, Zohar Yakhini
 
 <br /><br />
 

@@ -42,7 +42,7 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
    - Organization Committee: Fabio Vandin (chair), Matteo Comin, Barbara Di Camillo, Leonardo Pellegrina, Cinzia Pizzi
    - Keynote Speakers: Manuela Helmer-Citterich, Michal Linial, Satoru Miyano, Pavel Pevzner, Eran Segal, Russ Altman
    - [Proceedings](https://link.springer.com/book/10.1007/978-3-030-45257-5){:target="_blank"}
- - [RECOMB 2019](): Washington, DC, United States, May 5-8, 2019
+ - [RECOMB 2019](https://recomb-conference.github.io/recomb2019/){:target="_blank"}: Washington, DC, United States, May 5-8, 2019
    - Program Committee Chair: Lenore J. Cowen
    - Organization Committee: Max Alekseyev (co-chair), Teresa Przytycka (co-chair)
    - Keynote Speakers: Carlos D. Bustamante, Rachel Kolodny, Mihai Pop, Franziska Michor, Eytan Ruppin, Alfonso Valencia
