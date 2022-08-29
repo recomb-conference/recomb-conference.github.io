@@ -93,7 +93,7 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
    - [Photo Album](https://photos.app.goo.gl/aJYV6tRe11vHFTCTA){:target="_blank"}
  - [RECOMB 2010](https://recomb-conference.github.io/recomb2010/){:target="_blank"}: Lisbon, Portugal, August 12-15, 2010 
    - Program Committee Chair: Bonnie Berger
-   - Organization Committee: Arlindo Oliveira (chair)
+   - Organization Committee: Arlindo Oliveira (co-chair), Ana Teresa Freitas (co-chair), João Carriço, Alexandre Francisco, Paulo Fonseca, José Pereira Leal, Sara Madeira, Luís Rocha, Sara Silva, Susana Vinga
    - Keynote Speakers: Cecilia Arraiano, David Bartel, Isaac Kohane, Phil Kapranov, Norbert Perrimon Mona Singh
    - [Proceedings](https://link.springer.com/book/10.1007/978-3-642-12683-3){:target="_blank"}
  - [RECOMB 2009](): Tucson, AZ, United States, May 18-21, 2009
