@@ -44,12 +44,12 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
    - [Proceedings](https://link.springer.com/book/10.1007/978-3-030-45257-5){:target="_blank"}
  - [RECOMB 2019](https://recomb-conference.github.io/recomb2019/){:target="_blank"}: Washington, DC, United States, May 5-8, 2019
    - Program Committee Chair: Lenore J. Cowen
-   - Organization Committee: Max Alekseyev (co-chair), Teresa Przytycka (co-chair)
+   - Organization Committee: Max Alekseyev (co-chair), Teresa Przytycka (co-chair), Pavel Avdeyev, Jan Hoinka, Chanson Benjamin, Damian Wojtowicz, Rebecca Sarto Basso, Alexander Hopkins-Ives
    - Keynote Speakers: Carlos D. Bustamante, Rachel Kolodny, Mihai Pop, Franziska Michor, Eytan Ruppin, Alfonso Valencia
    - [Proceedings](https://link.springer.com/book/10.1007/978-3-030-17083-7){:target="_blank"}
- - [RECOMB 2018](): Paris, France, April 21-24, 2018
+ - [RECOMB 2018](https://recomb-conference.github.io/recomb2018/){:target="_blank"}: Paris, France, April 21-24, 2018
    - Program Committee Chair: Benjamin J. Raphael
-   - Organization Committee: Yann Ponty (co-chair), Mireille Regnier (co-chair)
+   - Organization Committee: Yann Ponty (co-chair), Mireille Regnier (co-chair), Alessandra Carbone, Celine Scornavacca, Eric Tannier, Hélène Touzet, Stéphane Vialette
    - Keynote Speakers: Peter Campbell, Ron Shamir, Sarah Teichmann, Nevan Krogan, Francois Spitz, Tandy Warnow
    - [Proceedings](https://link.springer.com/book/10.1007/978-3-319-89929-9){:target="_blank"}
  - [RECOMB 2017](https://recomb-conference.github.io/recomb2017/){:target="_blank"}: Hong Kong, May 3-7, 2017
