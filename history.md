@@ -62,13 +62,13 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
    - Organization Committee: Eleazar Eskin (chair)
    - Keynote Speakers: Colin Collins, Joe Gray, Laxmi Parida, Ben Raphael, Michael Schnall-Levin, Jun Wang
    - [Proceedings](https://link.springer.com/book/10.1007/978-3-319-31957-5){:target="_blank"}
- - [RECOMB 2015](): Warsaw, Poland, April 12-15, 2015
+ - [RECOMB 2015](https://recomb-conference.github.io/recomb2015/){:target="_blank"}: Warsaw, Poland, April 12-15, 2015
    - Program Committee Chair: Teresa M. Przytycka
-   - Organization Committee: Jerzy Tiuryn (cochair), Bartek Wilczyński (co-chair)
+   - Organization Committee: Jerzy Tiuryn (cochair), Bartek Wilczyński (co-chair), Paweł Bednarz, Agata Charzyńska, Norbert Dojer, Anna Gambin, Paweł Górecki, Ilona Grabowicz, Julia Herman-Iżycka, Aleksander Jankowski, Agnieszka Mykowiecka, Ewa Szczurek, Irina Tuszyńska, Damian Wójtowicz, Rafał Zaborowski
    - Keynote Speakers: Madan Babu, Bonnie Berger, M. Magda Konarska, Michael Levitt, Bas van Steensel, Wacław Szybalski
    - [Proceedings](https://link.springer.com/book/10.1007/978-3-319-16706-0){:target="_blank"}
    - [Photo Album](https://photos.app.goo.gl/LQHiB87GdGtQAvd98){:target="_blank"} &nbsp; &nbsp; [Satellites Photo Album](https://photos.app.goo.gl/xms1y1EyzW8cpEKr6){:target="_blank"}
- - [RECOMB 2014](): Pittsburgh, PA, United States, April 2-5, 2014
+ - [RECOMB 2014](https://recomb-conference.github.io/recomb2014/){:target="_blank"}: Pittsburgh, PA, United States, April 2-5, 2014
    - Program Committee Chair: Roded Sharan
    - Organization Committee: Panayiotis (Takis) Benos (co-chair), Russell Schwartz (co-chair)
    - Keynote Speakers: Ian T. Baldwin, Atul Butte, JJ Collins, Trey Ideker, Tom Mitchell, Sarah A. Tishkoff
