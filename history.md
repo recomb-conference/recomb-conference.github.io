@@ -27,7 +27,7 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
 
 #### Past RECOMB Conferences
 
- - [RECOMB 2022](https://www.recomb2022.net){:target="_blank"}: San Diego, CA, USA, May 22–25, 2022
+ - [RECOMB 2022](https://recomb-conference.github.io/recomb2022/){:target="_blank"}: San Diego, CA, USA, May 22–25, 2022
    - Program Committee Chair: Itsik Pe'er
    - Organization Committee: Vineet Bafna (chair), Vikas Bansal, Jocelyn Bernardo, Melissa Gymrek, Siavash Mirarab, Glenn Tesler, Kaiyuan Zhu
    - Keynote Speakers: Regina Barzilay, Howard Y. Chang, John Chodera, Lenore Cowen, John Marioni, Bing Ren, Wenyi Wang
@@ -94,7 +94,7 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
  - [RECOMB 2010](https://recomb-conference.github.io/recomb2010/){:target="_blank"}: Lisbon, Portugal, August 12-15, 2010 
    - Program Committee Chair: Bonnie Berger
    - Organization Committee: Arlindo Oliveira (co-chair), Ana Teresa Freitas (co-chair), João Carriço, Alexandre Francisco, Paulo Fonseca, José Pereira Leal, Sara Madeira, Luís Rocha, Sara Silva, Susana Vinga
-   - Keynote Speakers: Cecilia Arraiano, David Bartel, Isaac Kohane, Phil Kapranov, Norbert Perrimon Mona Singh
+   - Keynote Speakers: Cecilia Arraiano, David Bartel, Isaac Kohane, Phil Kapranov, Norbert Perrimon, Mona Singh
    - [Proceedings](https://link.springer.com/book/10.1007/978-3-642-12683-3){:target="_blank"}
  - [RECOMB 2009](): Tucson, AZ, United States, May 18-21, 2009
    - Program Committee Chair: Serafim Batzoglou
