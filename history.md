@@ -67,7 +67,8 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
    - Organization Committee: Jerzy Tiuryn (cochair), Bartek Wilczyński (co-chair), Paweł Bednarz, Agata Charzyńska, Norbert Dojer, Anna Gambin, Paweł Górecki, Ilona Grabowicz, Julia Herman-Iżycka, Aleksander Jankowski, Agnieszka Mykowiecka, Ewa Szczurek, Irina Tuszyńska, Damian Wójtowicz, Rafał Zaborowski
    - Keynote Speakers: Madan Babu, Bonnie Berger, M. Magda Konarska, Michael Levitt, Bas van Steensel, Wacław Szybalski
    - [Proceedings](https://link.springer.com/book/10.1007/978-3-319-16706-0){:target="_blank"}
-   - [Photo Album](https://photos.app.goo.gl/LQHiB87GdGtQAvd98){:target="_blank"} &nbsp; &nbsp; [Satellites Photo Album](https://photos.app.goo.gl/xms1y1EyzW8cpEKr6){:target="_blank"}
+   - [Photo Album](https://photos.app.goo.gl/LQHiB87GdGtQAvd98){:target="_blank"} 
+   - [Satellites Photo Album](https://photos.app.goo.gl/xms1y1EyzW8cpEKr6){:target="_blank"}
  - [RECOMB 2014](https://recomb-conference.github.io/recomb2014/){:target="_blank"}: Pittsburgh, PA, United States, April 2-5, 2014
    - Program Committee Chair: Roded Sharan
    - Organization Committee: Panayiotis (Takis) Benos (co-chair), Russell Schwartz (co-chair)
