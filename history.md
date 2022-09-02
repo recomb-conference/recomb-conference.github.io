@@ -32,6 +32,7 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
    - Organization Committee: Vineet Bafna (chair), Vikas Bansal, Jocelyn Bernardo, Melissa Gymrek, Siavash Mirarab, Glenn Tesler, Kaiyuan Zhu
    - Keynote Speakers: Regina Barzilay, Howard Y. Chang, John Chodera, Lenore Cowen, John Marioni, Bing Ren, Wenyi Wang
    - [Proceedings](https://link.springer.com/book/10.1007/978-3-031-04749-7){:target="_blank"}
+   - [Photo Album](https://photos.app.goo.gl/BAbbBBxQLLVSEbyaA){:target="_blank"}
  - [RECOMB 2021](): Padova, Italy (virtual), August 29 – September 1, 2021
    - Program Committee Chair: Jian Peng
    - Organization Committee: Fabio Vandin (co-chair), Jian Ma (co-chair), Matteo Comin, Barbara Di Camillo, Leonardo Pellegrina, Cinzia Pizzi
@@ -47,14 +48,16 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
    - Organization Committee: Max Alekseyev (co-chair), Teresa Przytycka (co-chair), Pavel Avdeyev, Jan Hoinka, Chanson Benjamin, Damian Wojtowicz, Rebecca Sarto Basso, Alexander Hopkins-Ives
    - Keynote Speakers: Carlos D. Bustamante, Rachel Kolodny, Mihai Pop, Franziska Michor, Eytan Ruppin, Alfonso Valencia
    - [Proceedings](https://link.springer.com/book/10.1007/978-3-030-17083-7){:target="_blank"}
+   - [Photo Album](https://photos.app.goo.gl/nfXbBoUQrMQ4nJtq7){:target="_blank"}
  - [RECOMB 2018](https://recomb-conference.github.io/recomb2018/){:target="_blank"}: Paris, France, April 21-24, 2018
    - Program Committee Chair: Benjamin J. Raphael
    - Organization Committee: Yann Ponty (co-chair), Mireille Regnier (co-chair), Alessandra Carbone, Celine Scornavacca, Eric Tannier, Hélène Touzet, Stéphane Vialette
    - Keynote Speakers: Peter Campbell, Ron Shamir, Sarah Teichmann, Nevan Krogan, Francois Spitz, Tandy Warnow
    - [Proceedings](https://link.springer.com/book/10.1007/978-3-319-89929-9){:target="_blank"}
+   - [Photo Album](https://photos.app.goo.gl/ews7viLpMJtMrknF7){:target="_blank"}
  - [RECOMB 2017](https://recomb-conference.github.io/recomb2017/){:target="_blank"}: Hong Kong, May 3-7, 2017
    - Program Committee Chair: S. Cenk Sahinalp
-   - Organization Committee: Siu Ming Yiu (chair), Kevin Yip, 
+   - Organization Committee: Siu Ming Yiu (chair), Kevin Yip, Alexander Schoenhuth, Paul Medvedev
    - Keynote Speakers: Colin Collins, Joe Gray, Laxmi Parida, Ben Raphael, Michael Schnall-Levin, Jun Wang
    - [Proceedings](https://link.springer.com/book/10.1007/978-3-319-56970-3){:target="_blank"}
  - [RECOMB 2016](https://recomb-conference.github.io/recomb2016/){:target="_blank"}: Santa Monica, CA, United States, April 17-21, 2016
@@ -102,6 +105,7 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
    - Organization Committee: John Kececioglu (chair)
    - Keynote Speakers: Carlos D. Bustamante, Rade Drmanac, Mark Gerstein, Eran Halperin, Michael Hammer, Joanna Mountain, Stephen Quake, Mostafa Ronaghi, Pardis Sabeti, Michael Snyder
    - [Proceedings](https://link.springer.com/book/10.1007/978-3-642-02008-7){:target="_blank"}
+   - [Photo Album](https://photos.app.goo.gl/qoWvNnFaGkY1MfWj9){:target="_blank"}
  - [RECOMB 2008](https://recomb-conference.github.io/recomb2008/){:target="_blank"}: Singapore, March 30 - April 2, 2008
    - Program Committee Chair: Martin Vingron
    - Organization Committee: Limsoon Wong (chair), Agnes Ang, Lay Khim Chng, Kwok Pui Choi, Alexia Leong, Hon Wai Leong, Wai Kin Leong, Stefanie Ng, Wing-Kin Sung, Martti Tammi, Siang Yong Yap, Xin Chen, Chee Keong Kwoh, Guillaume Bourque, Alan Christoffels, Dong-Yup Lee, Gunaretnam Rajagopal
