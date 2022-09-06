@@ -86,14 +86,14 @@ rockstarSpeakersButtonText: "See all speakers"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "recomb2023"
-twitterFeed: " https://twitter.com/recomb2023"
+twitterHashTag: "RECOMB2023"
+twitterFeed: " https://twitter.com/RECOMBconf"
 
 
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/recomb2023", icon: "twitter"}
+ - {link: "https://twitter.com/RECOMBconf", icon: "twitter"}
  - {link: "https://www.youtube.com/channel/UCwPPTWrBsd0xfW2gjpCHNLA/featured", icon: "youtube"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
