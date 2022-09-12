@@ -60,6 +60,7 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
    - Organization Committee: Siu Ming Yiu (chair), Kevin Yip, Alexander Schoenhuth, Paul Medvedev
    - Keynote Speakers: Colin Collins, Joe Gray, Laxmi Parida, Ben Raphael, Michael Schnall-Levin, Jun Wang
    - [Proceedings](https://link.springer.com/book/10.1007/978-3-319-56970-3){:target="_blank"}
+   - [Photo Album](https://photos.app.goo.gl/PcL16PjP9KAcYLo17){:target="_blank"}
  - [RECOMB 2016](https://recomb-conference.github.io/recomb2016/){:target="_blank"}: Santa Monica, CA, United States, April 17-21, 2016
    - Program Committee Chair: Mona Singh
    - Organization Committee: Eleazar Eskin (chair)
