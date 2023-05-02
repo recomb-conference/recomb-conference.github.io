@@ -8,6 +8,7 @@ isStaticPost: true
  
 #### Best Paper Awards
 
+*   2023: Sara C. Schulte, Alexander Dilthey and Gunnar W. Klau. ["HOGVAX: Exploiting peptide overlaps to maximize population coverage in vaccine design with application to SARS-CoV-2"](https://www.biorxiv.org/content/10.1101/2023.01.09.523288v1).
 *   2021: Serhan Yılmaz, Marzieh Ayati, Daniela Schlatzer, A. Ercüment Çiçek, Mark R. Chance and Mehmet Koyutürk. ["Robust inference of kinase activity using functional networks"](https://www.nature.com/articles/s41467-021-21211-6).
 *   2020: Amatur Rahman and Paul Medvedev. ["Representation of k-mer sets using spectrum-preserving string sets"](https://www.liebertpub.com/doi/10.1089/cmb.2020.043).
 *   2019: Martin J. Zhang, Fei Xia, James Zou. ["AdaFDR: a fast, powerful and covariate-adaptive approach to multiple hypothesis testing"](https://www.nature.com/articles/s41467-019-11247-0).
@@ -22,6 +23,7 @@ isStaticPost: true
 
 #### Best Student / Young Scientist Paper Awards
 
+*   2023: Sara C. Schulte, Alexander Dilthey and Gunnar W. Klau. ["HOGVAX: Exploiting peptide overlaps to maximize population coverage in vaccine design with application to SARS-CoV-2"](https://www.biorxiv.org/content/10.1101/2023.01.09.523288v1).
 *   2021: Barış Ekim, Bonnie Berger and Rayan Chikhi. ["Minimizer-space de Bruijn graphs: whole-genome assembly of long reads in minutes on a personal computer"](https://www.sciencedirect.com/science/article/pii/S240547122100332X).
 *   2018: Ariya Shajii, Ibrahim Numanagić and Bonnie Berger. ["Latent variable model for aligning barcoded short-reads improves downstream analyses"](https://www.sciencedirect.com/science/article/pii/S2405471218302849).
 *   2004: Eran Segal and Roded Sharan. ["A discriminative model for identifying spatial cis-regulatory modules"](https://dl.acm.org/doi/10.1145/974614.974634).
@@ -30,6 +32,7 @@ isStaticPost: true
 
 #### Best Poster Awards
 
+*   2023: Alex Sweeten, Mike Schatz, Adam Phillippy. "Mod.Plot: A Rapid and Interactive Visualization of Tandem Repeats".
 *   2022: Daniel Ariad, Svetlana Madjunkova and Rajiv McCoy. "Inference of meiotic recombination events from a large sample of human embryos".
 *   2021: Arun Das and Michael Schatz. "Analysis of sketching and sampling approaches for fast and accurate long read classification".
 *   2020: Emilio Dorigatti and Benjamin Schubert. "Joint epitope selection and spacer design for strings-of-beads vaccine".
@@ -58,6 +61,7 @@ isStaticPost: true
 
 #### Test of Time Awards
 
+*   2023: Fabio Vandin, Eli Upfal, Ben Raphael. ["De Novo Discovery of Mutated Driver Pathways in Cancer"](https://link.springer.com/chapter/10.1007/978-3-642-20036-6_44). _Presented in RECOMB 2011_
 *   2022: Yu Peng, Henry C. M. Leung, S. M. Yiu and Francis Y. L. Chin. ["IDBA – a Practical iterative de Bruijn graph _de novo_ assembler"](https://link.springer.com/chapter/10.1007/978-3-642-12683-3_28). _Published in RECOMB 2010._
 *   2021: Nicholas D. Pattengale, Masoud Alipour, Olaf R. P. Bininda-Emonds, Bernard M. E. Moret and Alexandros Stamatakis. ["How many bootstrap replicates are necessary?"](https://link.springer.com/chapter/10.1007/978-3-642-02008-7_13). _Published in RECOMB 2009._
 *   2020: Maxim Kalaev, Vineet Bafna and Roded Sharan. ["Fast and accurate alignment of multiple protein networks"](https://link.springer.com/chapter/10.1007/978-3-540-78839-3_21). _Published in RECOMB 2008._

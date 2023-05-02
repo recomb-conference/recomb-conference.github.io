@@ -57,7 +57,7 @@ heroSubTitle: "Research on Computational Molecular Biology"
 #typeoutTextValues: '"2023"'
 #typeoutFallback: "2023"
 heroButtons:
- - {link: "http://recomb2023.bilkent.edu.tr", text: "Current Conference: RECOMB 2023 in İstanbul"}
+ - {link: "http://recomb2023.bilkent.edu.tr", text: "Latest Conference: RECOMB 2023 in İstanbul"}
 
 # About Block
 aboutTitle: "About RECOMB"
