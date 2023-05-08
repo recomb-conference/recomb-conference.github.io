@@ -32,7 +32,8 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
    - Organization Committee: Can Alkan (co-chair), Attila Gürsoy (co-chair), Zülal Bingöl, A. Ercüment Çiçek, Tunca Doğan, Ezgi Ebren, Arzucan Özgür, Öznur Taştan
    - Keynote Speakers: İvet Bahar, Ewan Birney, Richard Durbin, Tuuli Lappalainen, Sohini Ramachandran, Fabian Theis
    - [Proceedings](https://link.springer.com/book/10.1007/978-3-031-29119-7){:target="_blank"}
-   - [Photo Album](){:target="_blank"}
+   - [Photo Album](https://photos.app.goo.gl/HF7dvQGMfVDtH8od6){:target="_blank"}
+   - [Satellites Photo Album](https://photos.app.goo.gl/UPb1BNnk8CmEXT9fA){:target="_blank"}
  - [RECOMB 2022](https://recomb-conference.github.io/recomb2022/){:target="_blank"}: San Diego, CA, USA, May 22–25, 2022
    - Program Committee Chair: Itsik Pe'er
    - Organization Committee: Vineet Bafna (chair), Vikas Bansal, Jocelyn Bernardo, Melissa Gymrek, Siavash Mirarab, Glenn Tesler, Kaiyuan Zhu
