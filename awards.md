@@ -20,6 +20,7 @@ isStaticPost: true
 *   2013: Fabio Vandin, Alexandra Papoutsaki, Ben Raphael, and Eli Upfahl. ["Genome-wide survival analysis of somatic mutations in cancer"](https://link.springer.com/chapter/10.1007/978-3-642-37195-0_26).
 *   2012: Patrick Holloway, Krister Swenson, David Ardell and Nadia El-Mabrouk for the contribution ["Evolution of genome organization by duplication and loss: a linear programming approach"](https://link.springer.com/chapter/10.1007/978-3-642-29627-7_10).
 *   2011: Shay Zakov, Yoav Goldberg, Michael Elhadad and Michal Ziv-Ukelson. ["Rich parametrization improves RNA structure prediction"](https://www.liebertpub.com/doi/10.1089/cmb.2011.0184).
+*   2010: Nir Atias and Roded Sharan. ["An algorithmic framework for predicting side-effects of drugs"](https://link.springer.com/chapter/10.1007/978-3-642-12683-3_1).
 
 #### Best Student / Young Scientist Paper Awards
 
