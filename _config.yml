@@ -14,10 +14,10 @@ title: "RECOMB Conference Series"
 email: "recomb-conference@gmail.com"
 description: "RECOMB: Conference on Research on Computational Molecular Biology"
 baseurl: ""
-url: "https://recomb-conference.github.io"
+url: "https://recomb.org"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: ""
-googleAnalyticsSiteUrl: "recomb-conference.github.io"
+googleAnalyticsTrackingId: "G-E769F4DJMN"
+googleAnalyticsSiteUrl: "recomb.org"
 siteVerification: ""
 
 # Organizer Info
@@ -52,18 +52,18 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "RECOMB Conference Series"
 heroSubTitle: "Research on Computational Molecular Biology"
-#eventDate: "April 14-15, 2023"
-#eventLocation: "İstanbul, Turkey"
-#typeoutTextValues: '"2023"'
-#typeoutFallback: "2023"
+#eventDate: "April 29 - May 2, 2024"
+#eventLocation: "Boston, MA, United States"
+#typeoutTextValues: '"2024"'
+#typeoutFallback: "2024"
 heroButtons:
- - {link: "http://recomb2023.bilkent.edu.tr", text: "Latest Conference: RECOMB 2023 in İstanbul"}
+ - {link: "https://recomb.org/recomb2024", text: "Next Conference: RECOMB 2024 in Boston"}
 
 # About Block
 aboutTitle: "About RECOMB"
 # aboutBlock:
-# - {title: "RECOMB-SEQ", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
-# - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+# - {title: "RECOMB", image: "conference.jpg", text: "RECOMB" }
+# - {title: "Workshops", image: "workshop.jpg", text: "" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -86,7 +86,7 @@ rockstarSpeakersButtonText: "See all speakers"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "RECOMB2023"
+twitterHashTag: "RECOMB2024"
 twitterFeed: " https://twitter.com/RECOMBconf"
 
 
@@ -94,13 +94,12 @@ twitterFeed: " https://twitter.com/RECOMBconf"
 # Footer
 socialLinks:
  - {link: "https://twitter.com/RECOMBconf", icon: "twitter"}
- - {link: "https://www.youtube.com/channel/UCwPPTWrBsd0xfW2gjpCHNLA/featured", icon: "youtube"}
+ - {link: "https://www.youtube.com/@recombconf", icon: "youtube"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
-  title: "Links"
   links:
-   - {link: "https://recomb2023.bilkent.edu.tr", text: "RECOMB 2023"}
+   - {link: "https://recomb.org/recomb2024", text: "RECOMB 2024"}
  -
   # title: "Contacts"
   # links:
