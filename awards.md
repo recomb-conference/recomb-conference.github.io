@@ -79,3 +79,5 @@ isStaticPost: true
     *   Nir Friedman, Michal Linial, Iftach Nachman and Dana Pe'er. ["Using Bayesian network to analyse expression data"](https://dl.acm.org/doi/10.1145/332306.332355). _Published in RECOMB 2000._
     *   Amir Ben-Dor, Laurakay Bruhn, Nir Friedman,Iftach Nachman, Michèl Schummer and Zohar Yakhini. ["Tissue classification with gene expression profiles"](https://dl.acm.org/doi/10.1145/332306.332328). _Published in RECOMB 2000._
 *   2011: Amir Ben-Dor, Ron Shamir and Zohar Yakhini. ["Clustering gene expression patterns"](https://dl.acm.org/doi/10.1145/369133.369167). _Published in RECOMB 2001._
+
+<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/award.png" style="display:none">
