@@ -185,4 +185,4 @@ This satellite conference was a precursor to RECOMB-Seq and it focused on DNA se
   - University of Southern California, Los Angeles, CA, United States
 
 
-
+<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/sat.jpg" style="display:none">
