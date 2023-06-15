@@ -71,7 +71,7 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
  - [RECOMB 2016](https://recomb-conference.github.io/recomb2016/){:target="_blank"}: Santa Monica, CA, United States, April 17-21, 2016
    - Program Committee Chair: Mona Singh
    - Organization Committee: Eleazar Eskin (chair)
-   - Keynote Speakers: Colin Collins, Joe Gray, Laxmi Parida, Ben Raphael, Michael Schnall-Levin, Jun Wang
+   - Keynote Speakers: Peter S. Kim, Rob Knight, Leonid Kruglyak, Phil Bradley, Teresa Przytycka, Karen Adelman
    - [Proceedings](https://link.springer.com/book/10.1007/978-3-319-31957-5){:target="_blank"}
  - [RECOMB 2015](https://recomb-conference.github.io/recomb2015/){:target="_blank"}: Warsaw, Poland, April 12-15, 2015
    - Program Committee Chair: Teresa M. Przytycka
