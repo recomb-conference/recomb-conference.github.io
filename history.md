@@ -164,7 +164,7 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
  - [RECOMB 1999](https://recomb-conference.github.io/recomb1999/){:target="_blank"}:  Lyon, France, April 11-14, 1999
    - Program Committee Chair: Sorin Istrail
    - Organization Committee: Mireille Regnier (chair), Florence Balax, Daniel Kahn, Gregory Kucherov,  Sophie Schbath,  Annick Theis-Viémont 
-   - Keynote Speakers: Minoru Kanehisa, Hans Lehrach, Svante Paabo, Eric Davidson, Takashi Gojobori, Leroy Hood, Walter Gilbert, Yusuke Nakamura
+   - Keynote Speakers: Peer Bork, Cyrus Chothia, Daniel Cohen, John Moult, Gene Myers, Piotr Slonimski, E. M. Southern, Peter Willett, John Wooley
    - [Proceedings](https://dl.acm.org/doi/proceedings/10.1145/299432){:target="_blank"}
  - [RECOMB 1998](https://recomb-conference.github.io/recomb1998/){:target="_blank"}: New York, NY, United States, March 22-25, 1998
    - Program Committee Chair: Pavel Pevzner
@@ -175,7 +175,7 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
  - [RECOMB 1997](https://recomb-conference.github.io/recomb1997/){:target="_blank"}: Santa Fe, NM, United States, January 20-23, 1997
    - Program Committee Chair: Michael Waterman
    - Organization Committee: Sorin Istrail (chair), Bonnie Berger, Chris Fields, William Hart, Sylvia Spengler
-   - Keynote Speakers: Ruben Abagyan, Charles Cantor, David Cox, Ron Davis, Klaus Gubernator, Joshua Lederberg, Michael Levitt, David Schwartz, John Yates
+   - Keynote Speakers:  David Botstein, Sam Karlin, Martin Karplus, Eric Lander, Robert Lipshutz, Jonathan King, Rich Roberts, Temple Smith, Terry Speed
    - [Proceedings](https://dl.acm.org/doi/proceedings/10.1145/267521){:target="_blank"}
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
