@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "RECOMB Conference Series"
 email: "recomb-conference@gmail.com"
-description: "RECOMB: Conference on Research on Computational Molecular Biology"
+description: "RECOMB: Conference on Research in Computational Molecular Biology"
 baseurl: ""
 url: "https://recomb.org"
 permalink: "/blog/:title"
@@ -23,7 +23,7 @@ siteVerification: ""
 # Organizer Info
 organizerName: "RECOMB Conference Series"
 organizerAlternateName: "RECOMB"
-organizerDescription: "A series of conferences on computational molecular biology"
+organizerDescription: "A series of conferences in computational molecular biology"
 organizerEmail: "recomb-conference@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.recomb.org"
@@ -51,7 +51,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "RECOMB Conference Series"
-heroSubTitle: "Research on Computational Molecular Biology"
+heroSubTitle: "Research in Computational Molecular Biology"
 #eventDate: "April 29 - May 2, 2024"
 #eventLocation: "Boston, MA, United States"
 #typeoutTextValues: '"2024"'
