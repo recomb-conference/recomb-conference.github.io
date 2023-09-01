@@ -81,7 +81,7 @@ isStaticPost: true
 *   2011: Amir Ben-Dor, Ron Shamir and Zohar Yakhini. ["Clustering gene expression patterns"](https://dl.acm.org/doi/10.1145/369133.369167). _Published in RECOMB 2001._
 *   2010:
     *   Bonnie Berger and Tom Leighton. ["Protein folding in the hydrophobic-hydrophilic _(HP)_ is NP-complete"](https://dl.acm.org/doi/10.1145/279069.279080). _Published in RECOMB 1998._
-    *   Pierluigi Crescenzi, Deborah Goldman, Christos Papadimitriou, Antonio Piccolboni, Mihalis Yannakakis. ["https://dl.acm.org/doi/10.1145/279069.279089"]. _Published in RECOMB 1998._
+    *   Pierluigi Crescenzi, Deborah Goldman, Christos Papadimitriou, Antonio Piccolboni, Mihalis Yannakakis. ["On the complexity of protein folding"](https://dl.acm.org/doi/10.1145/279069.279089). _Published in RECOMB 1998._
 
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/award.png" style="display:none">
