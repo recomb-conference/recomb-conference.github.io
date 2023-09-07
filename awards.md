@@ -54,6 +54,7 @@ isStaticPost: true
 *   2011:
     *   Chen Yanover and Philip Bradley. "Large-scale characterization of binding landscapes using structural simulations: application to C2H2 zinc-finger transcription factors and MHC proteins".
     *   Raheleh Salari and Teresa M Przytycka. "The effect of SNPs on Boltzmann distribution for RNA secondary structure".
+*   2008: Xiao-Li Li and See-Kiong Ng. "Mining for Domain Dependency Sets from Protein Interactions".
 *   2004: 
     *   Matthew W. Dimmic, Melissa J. Todd, Carlos D. Bustamante and Rasmus Nielsen. "Detecting correlated amino acid substitutions using Bayesian phylogenetic techniques".
     *   Boris E. Shakhnovich, Eric Deeds, Charles Delisi, and Eugene Shakhnovich. "Protein structure and evolutionary history determine sequence space topology".
