@@ -108,6 +108,7 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
    - Organization Committee: Arlindo Oliveira (co-chair), Ana Teresa Freitas (co-chair), João Carriço, Alexandre Francisco, Paulo Fonseca, José Pereira Leal, Sara Madeira, Luís Rocha, Sara Silva, Susana Vinga
    - Keynote Speakers: Cecilia Arraiano, David Bartel, Isaac Kohane, Phil Kapranov, Norbert Perrimon, Mona Singh
    - [Proceedings](https://link.springer.com/book/10.1007/978-3-642-12683-3){:target="_blank"}
+   - [Photo Album](https://photos.app.goo.gl/7viqMwy2q6p7J2YZ9){:target="_blank"}
  - [RECOMB 2009](): Tucson, AZ, United States, May 18-21, 2009
    - Program Committee Chair: Serafim Batzoglou
    - Organization Committee: John Kececioglu (chair)
