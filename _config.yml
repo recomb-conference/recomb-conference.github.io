@@ -57,7 +57,7 @@ heroSubTitle: "Research in Computational Molecular Biology"
 #typeoutTextValues: '"2024"'
 #typeoutFallback: "2024"
 heroButtons:
- - {link: "https://recomb.org/recomb2024", text: "Next Conference: RECOMB 2024 in Boston"}
+ - {link: "https://recomb.org/recomb2025", text: "Next Conference: RECOMB 2025 in Seoul"}
 
 # About Block
 aboutTitle: "About RECOMB"
