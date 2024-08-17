@@ -27,6 +27,11 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
 
 #### Past RECOMB Conferences
 
+ - [RECOMB 2024](https://recomb.org/recomb2024){:target="_blank"}: Cambridge, MA, USA, April 29 - May 2, 2024
+   - Program Committee Chair: Jian Ma
+   - Organization Committee: Bonnie Berger (co-chair), Lenore Cowen (co-chair), Iman Hajirasouliha
+   - Keynote Speakers: Jim Collins, Shafi Goldwasser, Bob Langer, Xihong Lin, Steven Salzberg
+   - [Proceedings](https://link.springer.com/book/10.1007/978-1-0716-3989-4){:target="_blank"}
  - [RECOMB 2023](https://recomb.org/recomb2023){:target="_blank"}: İstanbul, Türkiye, April 16-19, 2023
    - Program Committee Chair: Haixu Tang
    - Organization Committee: Can Alkan (co-chair), Attila Gürsoy (co-chair), Zülal Bingöl, A. Ercüment Çiçek, Tunca Doğan, Ezgi Ebren, Arzucan Özgür, Öznur Taştan
