@@ -8,6 +8,7 @@ isStaticPost: true
  
 #### Best Paper Awards
 
+*   2024: Li Song and Ben Langmead. ["Centrifuger: lossless compression of microbial genomes for efficient and accurate metagenomic sequence classification"](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03244-4).
 *   2023: Sara C. Schulte, Alexander Dilthey and Gunnar W. Klau. ["HOGVAX: Exploiting peptide overlaps to maximize population coverage in vaccine design with application to SARS-CoV-2"](https://www.biorxiv.org/content/10.1101/2023.01.09.523288v1).
 *   2021: Serhan Yılmaz, Marzieh Ayati, Daniela Schlatzer, A. Ercüment Çiçek, Mark R. Chance and Mehmet Koyutürk. ["Robust inference of kinase activity using functional networks"](https://www.nature.com/articles/s41467-021-21211-6).
 *   2020: Amatur Rahman and Paul Medvedev. ["Representation of k-mer sets using spectrum-preserving string sets"](https://www.liebertpub.com/doi/10.1089/cmb.2020.043).
