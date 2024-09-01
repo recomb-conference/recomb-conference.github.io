@@ -25,6 +25,7 @@ isStaticPost: true
 
 #### Best Student / Young Scientist Paper Awards
 
+*   2024: Matthew M. Hong, David Froelicher, Ricky Magner, Victoria Popic, Bonnie Berger, and Hyunghoon Cho. ["Secure Discovery of Genetic Relatives across Large-Scale and Distributed Genomic Datasets"](https://doi.org/10.1101/gr.279057.124).
 *   2023: Sara C. Schulte, Alexander Dilthey and Gunnar W. Klau. ["HOGVAX: Exploiting peptide overlaps to maximize population coverage in vaccine design with application to SARS-CoV-2"](https://www.biorxiv.org/content/10.1101/2023.01.09.523288v1).
 *   2021: Barış Ekim, Bonnie Berger and Rayan Chikhi. ["Minimizer-space de Bruijn graphs: whole-genome assembly of long reads in minutes on a personal computer"](https://www.sciencedirect.com/science/article/pii/S240547122100332X).
 *   2018: Ariya Shajii, Ibrahim Numanagić and Bonnie Berger. ["Latent variable model for aligning barcoded short-reads improves downstream analyses"](https://www.sciencedirect.com/science/article/pii/S2405471218302849).
@@ -34,6 +35,9 @@ isStaticPost: true
 
 #### Best Poster Awards
 
+*   2024:
+    *   Jim Shaw and Yun William Yu. "sylph: metagenome profiling by statistical k-mer containment".
+    *   Aidan Lakshman and Erik Wright. "EvoWeaver: Large-scale prediction of gene functional associations from coevolutionary signals".
 *   2023: Alex Sweeten, Mike Schatz, Adam Phillippy. "Mod.Plot: A Rapid and Interactive Visualization of Tandem Repeats".
 *   2022: Daniel Ariad, Svetlana Madjunkova and Rajiv McCoy. "Inference of meiotic recombination events from a large sample of human embryos".
 *   2021: Arun Das and Michael Schatz. "Analysis of sketching and sampling approaches for fast and accurate long read classification".
@@ -64,6 +68,7 @@ isStaticPost: true
 
 #### Test of Time Awards
 
+*   2024: Melissa Gymrek, David Golan, Saharon Rosset, and Yaniv Erlich. ["lobSTR: A Short Tandem Repeat Profiler for Personal Genomes"](https://doi.org/10.1101/gr.135780.111). _Presented in RECOMB 2012_
 *   2023: Fabio Vandin, Eli Upfal, Ben Raphael. ["De Novo Discovery of Mutated Driver Pathways in Cancer"](https://link.springer.com/chapter/10.1007/978-3-642-20036-6_44). _Presented in RECOMB 2011_
 *   2022: Yu Peng, Henry C. M. Leung, S. M. Yiu and Francis Y. L. Chin. ["IDBA – a Practical iterative de Bruijn graph _de novo_ assembler"](https://link.springer.com/chapter/10.1007/978-3-642-12683-3_28). _Published in RECOMB 2010._
 *   2021: Nicholas D. Pattengale, Masoud Alipour, Olaf R. P. Bininda-Emonds, Bernard M. E. Moret and Alexandros Stamatakis. ["How many bootstrap replicates are necessary?"](https://link.springer.com/chapter/10.1007/978-3-642-02008-7_13). _Published in RECOMB 2009._
