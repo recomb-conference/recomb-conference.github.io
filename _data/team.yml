@@ -8,7 +8,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "twitter", link: "https://twitter.com/VineetBafna3"}
+    - {name: "twitter", link: "https://x.com/VineetBafna3"}
     - {name: "github", link: "https://github.com/vbafna"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/vineet-bafna-ab2a3810/"}
     - {name: "site", link: "http://proteomics.ucsd.edu/vbafna/"}
@@ -22,7 +22,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "twitter", link: "https://twitter.com/lab_berger"}
+    - {name: "twitter", link: "https://x.com/lab_berger"}
     - {name: "site", link: "https://people.csail.mit.edu/bab/"}
 - 
   id: 2
@@ -34,11 +34,23 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "twitter", link: "https://twitter.com/ZarEskinCompMed"}
+    - {name: "twitter", link: "https://x.com/ZarEskinCompMed"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/eleazar-eskin-477aa/"}
     - {name: "site", link: "http://web.cs.ucla.edu/~eeskin/"}
 - 
   id: 3
+  name: "Jian"
+  surname: "Ma"
+  title: "Carnegie Mellon University, USA"
+  thumbnailUrl: jian_ma.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "twitter", link: "https://x.com/jmuiuc"}
+    - {name: "site", link: "https://www.cs.cmu.edu/~jianma/"}
+- 
+  id: 4
   name: "Teresa"
   surname: "Przytycka"
   title: "NCBI, NIH, USA"
@@ -47,12 +59,12 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "twitter", link: "https://twitter.com/przytycka"}
+    - {name: "twitter", link: "https://x.com/przytycka"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/teresa-przytycka-24392814/"}
     - {name: "site", link: "https://www.ncbi.nlm.nih.gov/CBBresearch/Przytycka/index.cgi"}
 
 - 
-  id: 4
+  id: 5
   name: "Cenk"
   surname: "Sahinalp"
   title: "NCI, NIH, USA"
@@ -61,11 +73,11 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "twitter", link: "https://twitter.com/cenksahinalp"}
+    - {name: "twitter", link: "https://x.com/cenksahinalp"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/s-cenk-sahinalp-2b40a111/"}
     - {name: "site", link: "https://ccr.cancer.gov/staff-directory/s-cenk-sahinalp"}
 - 
-  id: 5
+  id: 6
   name: "Roded"
   surname: "Sharan"
   title: "Tel Aviv University, Israel"
@@ -74,7 +86,7 @@
   social: 
     - {name: "site", link: "https://www.cs.tau.ac.il/~roded/"}
 - 
-  id: 6
+  id: 7
   name: "Martin"
   surname: "Vingron"
   title: "Max Planck Institute for Molecular Genetics, Germany"
@@ -83,7 +95,7 @@
   social: 
     - {name: "site", link: "https://www.molgen.mpg.de/Martin-Vingron.html"}
 - 
-  id: 7
+  id: 8
   name: "Richard"
   surname: "Karp"
   title: "University of California, Berkeley, USA"
@@ -93,7 +105,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/richard-karp-a7782136/"}
     - {name: "site", link: "https://www2.eecs.berkeley.edu/Faculty/Homepages/karp.html"}
 - 
-  id: 8
+  id: 9
   name: "Thomas"
   surname: "Lengauer"
   title: "Max Planck Institute for Informatics, Germany"
@@ -102,7 +114,7 @@
   social: 
     - {name: "site", link: "https://bioinf.mpi-inf.mpg.de/homepage/professional.php?&account=lengauer"}
 - 
-  id: 9
+  id: 10
   name: "Pavel"
   surname: "Pevzner"
   title: "University of California, San Diego, USA"
@@ -112,7 +124,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/pavel-pevzner-70a2b1163/"}
     - {name: "site", link: "https://bioalgorithms.ucsd.edu/"}
 - 
-  id: 10
+  id: 11
   name: "Ron"
   surname: "Shamir"
   title: "Tel-Aviv University, Israel"
@@ -122,7 +134,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/ron-shamir-815094a2/"}
     - {name: "site", link: "https://www.cs.tau.ac.il/~rshamir/"}
 - 
-  id: 11
+  id: 12
   name: "Terry"
   surname: "Speed"
   title: "Walter and Eliza Hall Institute of Medical Research"
@@ -131,7 +143,7 @@
   social: 
     - {name: "site", link: "https://www.wehi.edu.au/people/terry-speed"}
 - 
-  id: 12
+  id: 13
   name: "Michael"
   surname: "Waterman"
   title: "University of Southern California, USA"
@@ -141,7 +153,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/michael-waterman-29b564216/"}
     - {name: "site", link: "https://dornsife.usc.edu/labs/msw/"}
 - 
-  id: 13
+  id: 14
   name: "Michal"
   surname: "Linial"
   title: "Hebrew University, Israel"
@@ -151,7 +163,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/michal-linial-46b403/"}
     - {name: "site", link: "https://michal-linial.huji.ac.il/"}
 - 
-  id: 14
+  id: 15
   name: "Sorin"
   surname: "Istrail"
   title: "Brown University, USA"
@@ -161,7 +173,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/sorin-istrail-47688265/"}
     - {name: "site", link: "https://www.brown.edu/Research/Istrail_Lab/sorin.php"}
 - 
-  id: 15
+  id: 16
   name: "Serafim"
   surname: "Batzoglou"
   title: "Seer Bio, USA"
