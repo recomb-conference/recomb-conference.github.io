@@ -29,7 +29,7 @@ isStaticPost: true
 *   2023: Sara C. Schulte, Alexander Dilthey and Gunnar W. Klau. ["HOGVAX: Exploiting peptide overlaps to maximize population coverage in vaccine design with application to SARS-CoV-2"](https://www.biorxiv.org/content/10.1101/2023.01.09.523288v1).
 *   2021: Barış Ekim, Bonnie Berger and Rayan Chikhi. ["Minimizer-space de Bruijn graphs: whole-genome assembly of long reads in minutes on a personal computer"](https://www.sciencedirect.com/science/article/pii/S240547122100332X).
 *   2018: Ariya Shajii, Ibrahim Numanagić and Bonnie Berger. ["Latent variable model for aligning barcoded short-reads improves downstream analyses"](https://www.sciencedirect.com/science/article/pii/S2405471218302849).
-*   2014: Emily Berger, Deniz Yorukoglu, Jian Peng, and Bonnie Berger. [“HapTree: A Novel Bayesian Framework for Single Individual Polyplotyping using NGS Data.”](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003502)
+*   2014: Emily Berger, Deniz Yorukoglu, Jian Peng and Bonnie Berger. [“HapTree: A Novel Bayesian Framework for Single Individual Polyplotyping using NGS Data”](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003502).
 *   2004: Eran Segal and Roded Sharan. ["A discriminative model for identifying spatial cis-regulatory modules"](https://dl.acm.org/doi/10.1145/974614.974634).
 *   2003: Gill Bejerano. ["Efficient exact value computation and applications to biosequence analysis"](https://dl.acm.org/doi/10.1145/640075.640080).
 *   2001: Mathieu Blanchette. ["Algorithms for phylogenetic fingerprinting"](https://dl.acm.org/doi/10.1145/369133.369170).
