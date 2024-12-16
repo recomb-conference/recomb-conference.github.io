@@ -34,6 +34,8 @@ twitterAccount: "@recombconf"
 # socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+bskyAccount: "@recombconf.bsky.social"
+
 
 # Navigation
 navigationLinks:
@@ -61,7 +63,6 @@ heroButtons:
 
 # About Block
 aboutTitle: "About RECOMB"
-# aboutBlock:
 # - {title: "RECOMB", image: "conference.jpg", text: "RECOMB" }
 # - {title: "Workshops", image: "workshop.jpg", text: "" }
 
@@ -94,12 +95,13 @@ twitterFeed: " https://twitter.com/RECOMBconf"
 # Footer
 socialLinks:
  - {link: "https://twitter.com/RECOMBconf", icon: "twitter"}
+ - {link: "https://bsky.app/profile/recombconf.bsky.social", icon: "bluesky"}
  - {link: "https://www.youtube.com/@recombconf", icon: "youtube"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   links:
-   - {link: "https://recomb.org/recomb2024", text: "RECOMB 2024"}
+   - {link: "https://recomb.org/recomb2025", text: "RECOMB 2025"}
  -
   # title: "Contacts"
   # links:
