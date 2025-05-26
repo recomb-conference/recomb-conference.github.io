@@ -8,6 +8,7 @@ isStaticPost: true
  
 #### Best Paper Awards
 
+*   2025: Enzo Battistella, Anant Maheshwari, Barış Ekim, Bonnie Berger and Victoria Popic. ["ralphi: a deep reinforcement learning framework for haplotype assembly"](https://link.springer.com/chapter/10.1007/978-3-031-90252-9_37).
 *   2024: Li Song and Ben Langmead. ["Centrifuger: lossless compression of microbial genomes for efficient and accurate metagenomic sequence classification"](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03244-4).
 *   2023: Sara C. Schulte, Alexander Dilthey and Gunnar W. Klau. ["HOGVAX: Exploiting peptide overlaps to maximize population coverage in vaccine design with application to SARS-CoV-2"](https://www.biorxiv.org/content/10.1101/2023.01.09.523288v1).
 *   2021: Serhan Yılmaz, Marzieh Ayati, Daniela Schlatzer, A. Ercüment Çiçek, Mark R. Chance and Mehmet Koyutürk. ["Robust inference of kinase activity using functional networks"](https://www.nature.com/articles/s41467-021-21211-6).
@@ -25,6 +26,7 @@ isStaticPost: true
 
 #### Best Student / Young Scientist Paper Awards
 
+*   2025: Kemal Inecik, Aleyna Kara, Antony Rose, Muzlifah Haniffa and Fabian Theis. ["TarDis: Achieving Robust and Structured Disentanglement of Multiple Covariates"](https://link.springer.com/chapter/10.1007/978-3-031-90252-9_23).
 *   2024: Matthew M. Hong, David Froelicher, Ricky Magner, Victoria Popic, Bonnie Berger, and Hyunghoon Cho. ["Secure Discovery of Genetic Relatives across Large-Scale and Distributed Genomic Datasets"](https://doi.org/10.1101/gr.279057.124).
 *   2023: Sara C. Schulte, Alexander Dilthey and Gunnar W. Klau. ["HOGVAX: Exploiting peptide overlaps to maximize population coverage in vaccine design with application to SARS-CoV-2"](https://www.biorxiv.org/content/10.1101/2023.01.09.523288v1).
 *   2021: Barış Ekim, Bonnie Berger and Rayan Chikhi. ["Minimizer-space de Bruijn graphs: whole-genome assembly of long reads in minutes on a personal computer"](https://www.sciencedirect.com/science/article/pii/S240547122100332X).
@@ -36,6 +38,7 @@ isStaticPost: true
 
 #### Best Poster Awards
 
+*   2025: Nayoung Park, Younhee Ko, Jaebum Kim. "MetaCNVNet: A hybrid deep learning framework with multi-caller integration for enhanced copy number variation detection".
 *   2024:
     *   Jim Shaw and Yun William Yu. "sylph: metagenome profiling by statistical k-mer containment".
     *   Aidan Lakshman and Erik Wright. "EvoWeaver: Large-scale prediction of gene functional associations from coevolutionary signals".
@@ -69,6 +72,7 @@ isStaticPost: true
 
 #### Test of Time Awards
 
+*   2025: Sergey Nurk, Anton Bankevich, Dmitry Antipov, Alexey Gurevich, Anton Korobeynikov, Alla Lapidus, Andrey Prjibelsky, Alexey Pyshkin, Alexander Sirotkin, Yakov Sirotkin, Ramunas Stepanauskas, Jeffrey McLean, Roger Lasken, Scott R. Clingenpeel, Tanja Woyke, Glenn Tesler, Max A. Alekseyev, Pavel A. Pevzner. ["Assembling Genomes and Mini-metagenomes from Highly Chimeric Reads"](https://link.springer.com/chapter/10.1007/978-3-642-37195-0_13)
 *   2024: Melissa Gymrek, David Golan, Saharon Rosset, and Yaniv Erlich. ["lobSTR: A Short Tandem Repeat Profiler for Personal Genomes"](https://doi.org/10.1101/gr.135780.111). _Presented in RECOMB 2012_
 *   2023: Fabio Vandin, Eli Upfal, Ben Raphael. ["De Novo Discovery of Mutated Driver Pathways in Cancer"](https://link.springer.com/chapter/10.1007/978-3-642-20036-6_44). _Presented in RECOMB 2011_
 *   2022: Yu Peng, Henry C. M. Leung, S. M. Yiu and Francis Y. L. Chin. ["IDBA – a Practical iterative de Bruijn graph _de novo_ assembler"](https://link.springer.com/chapter/10.1007/978-3-642-12683-3_28). _Published in RECOMB 2010._
