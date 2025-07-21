@@ -45,12 +45,12 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
    - Keynote Speakers: Regina Barzilay, Howard Y. Chang, John Chodera, Lenore Cowen, John Marioni, Bing Ren, Wenyi Wang
    - [Proceedings](https://link.springer.com/book/10.1007/978-3-031-04749-7){:target="_blank"}
    - [Photo Album](https://photos.app.goo.gl/BAbbBBxQLLVSEbyaA){:target="_blank"}
- - [RECOMB 2021](): Padova, Italy (virtual), August 29 – September 1, 2021
+ - [RECOMB 2021](https://sistemacongressi.wixsite.com/recomb2021){:target="_blank"}: Padova, Italy (virtual), August 29 – September 1, 2021
    - Program Committee Chair: Jian Peng
    - Organization Committee: Fabio Vandin (co-chair), Jian Ma (co-chair), Matteo Comin, Barbara Di Camillo, Leonardo Pellegrina, Cinzia Pizzi
    - Keynote Speakers: Trey Ideker, Ming Li, Katie Pollard, Aviv Regev, Marie-France Sagot, Mona Singh
    - [Proceedings](https://www.liebertpub.com/toc/cmb/29/2){:target="_blank"}
- - [RECOMB 2020](): Padova, Italy (virtual), June 22-25, 2020
+ - [RECOMB 2020](https://sistemacongressi.wixsite.com/recomb2020){:target="_blank"}: Padova, Italy (virtual), June 22-25, 2020
    - Program Committee Chair: Russell Schwartz
    - Organization Committee: Fabio Vandin (chair), Matteo Comin, Barbara Di Camillo, Leonardo Pellegrina, Cinzia Pizzi
    - Keynote Speakers: Manuela Helmer-Citterich, Michal Linial, Satoru Miyano, Pavel Pevzner, Eran Segal, Russ Altman
