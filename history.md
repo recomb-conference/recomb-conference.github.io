@@ -27,6 +27,12 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
 
 #### Past RECOMB Conferences
 
+ - [RECOMB 2025](https://recomb.org/recomb2025){:target="_blank"}: Seoul, South Korea, April 26 - 29, 2025
+   - Program Committee Chair: Sriram Sankararaman
+   - Organization Committee: Jihyun F. Kim (co-chair), Martin Steinegger (co-chair), Sungwon Jung, Soon-Kyeong Kwon, Ezgi Ebren, Hyobin Jeong, Hyeshik Chang, Young-suk Lee, Minkyung Baek, 
+Jinhyuk Bhin, Yusook Chung, Mohammed Alser, Jongsik Chun
+   - Keynote Speakers: Peer Bork, Evan E. Eichler, V. Narry Kim, Sang Yup Lee, Lior Pachter, Olga Troyanskaya, Leslie Valiant 
+   - [Proceedings](https://link.springer.com/book/10.1007/978-3-031-90252-9){:target="_blank"}
  - [RECOMB 2024](https://recomb.org/recomb2024){:target="_blank"}: Cambridge, MA, USA, April 29 - May 2, 2024
    - Program Committee Chair: Jian Ma
    - Organization Committee: Bonnie Berger (co-chair), Lenore Cowen (co-chair), Iman Hajirasouliha
