@@ -25,6 +25,10 @@ The origins of the conference came from the mathematical and computational side 
                 
 You can watch some previous talks of the conference at our [YouTube channel](https://www.youtube.com/channel/UCwPPTWrBsd0xfW2gjpCHNLA/featured).
 
+##### Publications profile
+
+[RECOMB Google Scholar Profile](https://scholar.google.com/citations?user=HOro5FgAAAAJ)
+
 #### Past RECOMB Conferences
 
  - [RECOMB 2025](https://recomb.org/recomb2025){:target="_blank"}: Seoul, South Korea, April 26 - 29, 2025
