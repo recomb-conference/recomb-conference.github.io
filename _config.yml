@@ -51,7 +51,7 @@ rightNavigationButtons:
 # - {link: "https://bit.ly/dfua-c4p", text: "Submit a paper"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "hero.png"
 heroTitle: "RECOMB Conference Series"
 heroSubTitle: "Research in Computational Molecular Biology"
 #eventDate: "April 29 - May 2, 2024"
