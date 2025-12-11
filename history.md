@@ -195,4 +195,4 @@ Jinhyuk Bhin, Yusook Chung, Mohammed Alser, Jongsik Chun
    - Keynote Speakers:  David Botstein, Sam Karlin, Martin Karplus, Eric Lander, Robert Lipshutz, Jonathan King, Rich Roberts, Temple Smith, Terry Speed
    - [Proceedings](https://dl.acm.org/doi/proceedings/10.1145/267521){:target="_blank"}
 
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
+<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/sections-background/history.png" style="display:none">
