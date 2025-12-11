@@ -3,6 +3,7 @@ layout: post
 title: History of RECOMB
 permalink: /history/
 isStaticPost: true
+image: history.png
 ---
 
 The RECOMB conference series was founded in 1997 to provide a scientific forum for theoretical advances in computational biology and their applications in molecular biology and medicine. The conference solicits research contributions from all areas of computational molecular biology. Typical but not exclusive topics of interest include:
