@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RECOMB Health and Safety Protocols
+title: Health and Safety Protocols
 permalink: /hsp/
 isStaticPost: true
 ---
