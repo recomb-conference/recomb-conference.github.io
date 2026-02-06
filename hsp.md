@@ -9,22 +9,31 @@ The safety of conference participants is RECOMB’s top priority. Participants s
 
 Participants of RECOMB conferences understand that it is their responsibility to review and ensure compliance with any stated country guidelines both for entering the country and departing to return to their country of origin. Costs associated with travel are the responsibility of the participant.
 
+---
 
 ##### On-Site Safety Measures
 
 Public health guidance on preventing the transmission of communicable diseases continues to evolve, and RECOMB will base its on-site protocols on the latest guidance.
 
+---
+
 ##### Protective Masks
 
 The wearing of protective masks is not required. Participants are welcome to bring and wear a mask if they choose. RECOMB reserves the right to alter this protocol as appropriate at any time.
+
+---
 
 ##### Symptom Development While Onsite
 
 On-site participants must agree that if they become symptomatic, they will immediately cease in-person participation in the meeting and get tested for illness. Individuals who test positive for a communicable disease should not continue attending the meeting in-person until symptom free.
 
+---
+
 ##### Conference Refund Policy
 
 If a registered participant is unable to attend due to illness, RECOMB will partially refund the registration fee. Refund requests must be made prior to the start of the conference and accompanied by appropriate documentation.
+
+---
 
 ##### RECOMB Health and Safety Waiver
 
