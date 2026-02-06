@@ -33,3 +33,5 @@ Upon registration to the conference, RECOMB will require all in-person participa
 I understand that travel and gathering involves risk of sickness, including communicable diseases. I waive and release RECOMB and its sponsors and exhibitors, and their employees and agents, from and against claims, liabilities, and expenses arising from injury, sickness, or death from contraction or spread of communicable disease due to travel to or attendance at a RECOMB event.
 
 I will take necessary precautions while at the event. I agree to inform the designated RECOMB Organizing Committee if I feel ill or have had recent exposure to a communicable disease case. This waiver and release is binding on me.
+
+<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
