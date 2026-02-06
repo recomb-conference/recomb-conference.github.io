@@ -24,7 +24,7 @@ siteVerification: ""
 organizerName: "RECOMB Conference Series"
 organizerAlternateName: "RECOMB"
 organizerDescription: "A series of conferences in computational molecular biology"
-organizerEmail: "recomb-conference@gmail.com"
+organizerEmail: "info@recombconf.org"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.recomb.org"
 
@@ -60,7 +60,6 @@ heroSubTitle: "Research in Computational Molecular Biology"
 #typeoutFallback: "2024"
 heroButtons:
  - {link: "https://recomb.org/recomb2026", text: "Next Conference: RECOMB 2026 in Thessaloniki"}
-# - {link: "https://recomb.org/recomb-genbio", text: "Submissions Are Open: RECOMB GenBio 2025 in Boston"}
 
 # About Block
 aboutTitle: "About RECOMB"
@@ -88,7 +87,7 @@ rockstarSpeakersButtonText: "See all speakers"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "RECOMB2024"
+twitterHashTag: "RECOMB2026"
 twitterFeed: " https://twitter.com/RECOMBconf"
 
 
@@ -102,11 +101,11 @@ socialLinks:
 footerBlocks:
  -
   links:
-   - {link: "https://recomb.org/recomb2025", text: "RECOMB 2025"}
+   - {link: "https://recomb.org/recomb2026", text: "RECOMB 2026"}
  -
-  # title: "Contacts"
-  # links:
-  # - {link: "mailto:recomb-conference@gmail.com", text: "recomb-conference@gmail.com"}
+  title: "Contacts"
+  links:
+  - {link: "mailto:info@recombconf.org", text: "info@recombconf.org"}
  -
   title: "Policies"
   links:
