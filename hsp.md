@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: RECOMB Health and Safety Protocols
