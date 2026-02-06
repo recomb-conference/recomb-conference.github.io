@@ -1,7 +1,9 @@
 
 ---
-layout: page
+layout: post
 title: RECOMB Health and Safety Protocols
+permalink: /hsp/
+isStaticPost: true
 ---
 
 The safety of conference participants is RECOMB’s top priority. Participants should be aware that, while RECOMB will make every effort to reduce health risks on-site, it is possible that attendees may come into contact with individuals who carry communicable diseases during travel or while attending the event. RECOMB recommends that attendees follow public health guidelines and take precautions to protect themselves and others. RECOMB believes the most effective way for participants to maximize their own safety is to take appropriate preventive measures, including vaccinations if eligible and able.
@@ -9,13 +11,13 @@ The safety of conference participants is RECOMB’s top priority. Participants s
 Participants of RECOMB conferences understand that it is their responsibility to review and ensure compliance with any stated country guidelines both for entering the country and departing to return to their country of origin. Costs associated with travel are the responsibility of the participant.
 
 
-## On-Site Safety Measures
+### On-Site Safety Measures
 
 Public health guidance on preventing the transmission of communicable diseases continues to evolve, and RECOMB will base its on-site protocols on the latest guidance.
 
 ---
 
-## Protective Masks
+#### Protective Masks
 
 The wearing of protective masks is not required. Participants are welcome to bring and wear a mask if they choose. RECOMB reserves the right to alter this protocol as appropriate at any time.
 
