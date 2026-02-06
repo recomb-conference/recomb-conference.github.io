@@ -111,6 +111,7 @@ footerBlocks:
   title: "Policies"
   links:
    - {permalink: "/coi/", text: "Conflict-of-interest Policy"}
+   - {permalink: "/hsp/", text: "Health and Safety Protocols"}
 
 
 
