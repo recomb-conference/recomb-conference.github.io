@@ -30,6 +30,9 @@ You can watch some previous talks of the conference at our [YouTube channel](htt
 
 [RECOMB Google Scholar Profile](https://scholar.google.com/citations?user=HOro5FgAAAAJ)
 
+##### Proceedings
+[Proceedings of past RECOMB Conferences](https://recomb.org/proceedings/)
+
 #### Past RECOMB Conferences
 
  - [RECOMB 2025](https://recomb.org/recomb2025){:target="_blank"}: Seoul, South Korea, April 26 - 29, 2025
