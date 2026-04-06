@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "RECOMB Conference Series"
 email: "recomb-conference@gmail.com"
 description: "RECOMB: Conference on Research in Computational Molecular Biology"
-baseurl: ""
+baseurl: "https://recomb.org"
 url: "https://recomb.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "G-E769F4DJMN"
@@ -55,10 +55,7 @@ rightNavigationButtons:
 heroImage: "hero.png"
 heroTitle: "RECOMB Conference Series"
 heroSubTitle: "Research in Computational Molecular Biology"
-#eventDate: "April 29 - May 2, 2024"
-#eventLocation: "Boston, MA, United States"
-#typeoutTextValues: '"2024"'
-#typeoutFallback: "2024"
+startDate: "1997"
 heroButtons:
  - {link: "https://recomb.org/recomb2026", text: "Next Conference: RECOMB 2026 in Thessaloniki"}
 
@@ -74,15 +71,6 @@ statisticBlock:
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
-
-# Latest News Block
-latestNewsTitle: "Latest news"
-
-# Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
 
 
 # Tweets Feed Block
