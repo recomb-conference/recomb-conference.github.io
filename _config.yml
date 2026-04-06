@@ -56,6 +56,7 @@ heroImage: "hero.png"
 heroTitle: "RECOMB Conference Series"
 heroSubTitle: "Research in Computational Molecular Biology"
 startDate: "1997"
+eventStartTime: "1997"
 heroButtons:
  - {link: "https://recomb.org/recomb2026", text: "Next Conference: RECOMB 2026 in Thessaloniki"}
 
