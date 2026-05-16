@@ -87,6 +87,7 @@ socialLinks:
  - {link: "https://twitter.com/RECOMBconf", icon: "twitter"}
  - {link: "https://bsky.app/profile/recombconf.bsky.social", icon: "bluesky"}
  - {link: "https://www.youtube.com/@recombconf", icon: "youtube"}
+ - {link: "https://www.linkedin.com/company/recombconf", icon: "linkedin"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
