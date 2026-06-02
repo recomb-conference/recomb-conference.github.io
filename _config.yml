@@ -58,7 +58,7 @@ heroSubTitle: "Research in Computational Molecular Biology"
 startDate: "1997"
 eventStartTime: "1997"
 heroButtons:
- - {link: "https://recomb.org/recomb2026", text: "Next Conference: RECOMB 2026 in Thessaloniki"}
+ - {link: "https://recomb.org/recomb2026", text: "Next Conference: RECOMB 2026 in Thessaloniki", target: "_self"}
 
 # About Block
 aboutTitle: "About RECOMB"
