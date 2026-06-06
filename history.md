@@ -149,7 +149,7 @@ Jinhyuk Bhin, Yusook Chung, Mohammed Alser, Jongsik Chun
    - Organization Committee: Concettina Guerra (chair), Matteo Comin, Eleazar Eskin, Raffaele Giancarlo, Giuseppe Lancia, Cinzia Pizzi, Angela Visco, Nicola Vitacolonna
    - Keynote Speakers: Anne-Claude Gavin, David Haussler, Ajay Royyuru, David Sankoff, Michael Waterman, Carl Zimmer, Roman Zubarev
    - [Proceedings](https://link.springer.com/book/10.1007/11732990){:target="_blank"}
- - [RECOMB 2005](): Cambridge, MA, United States, May 14-18, 2005
+ - [RECOMB 2005](https://recomb.org/recomb2005/){:target="_blank"}: Cambridge, MA, United States, May 14-18, 2005
    - Program Committee Chair: Satoru Miyano
    - Organization Committee: Jill P. Mesirov (co-chair), Simon Kasif (co-chair)
    - Keynote Speakers: David Altshuler, Wolfgang Baumeister, James Collins, Charles DeLisi, Jonathan King, Eric Lander, Michael Levine, Susan Lindquist
