@@ -139,7 +139,7 @@ Jinhyuk Bhin, Yusook Chung, Mohammed Alser, Jongsik Chun
    - Organization Committee: Limsoon Wong (chair), Agnes Ang, Lay Khim Chng, Kwok Pui Choi, Alexia Leong, Hon Wai Leong, Wai Kin Leong, Stefanie Ng, Wing-Kin Sung, Martti Tammi, Siang Yong Yap, Xin Chen, Chee Keong Kwoh, Guillaume Bourque, Alan Christoffels, Dong-Yup Lee, Gunaretnam Rajagopal
    - Keynote Speakers: Edison Liu, Sang Yup Lee, Andrei Lupas, Howard Cedar, Vivian Cheung, Temple F. Smith, Suzanne Cory
    - [Proceedings](https://link.springer.com/book/10.1007/978-3-540-78839-3){:target="_blank"}
- - [RECOMB 2007](): Oakland, CA, United States, April 21-25, 2007
+ - [RECOMB 2007](https://recomb.org/recomb2007/){:target="_blank"}: Oakland, CA, United States, April 21-25, 2007
    - Program Committee Chair: Terry Speed
    - Organization Committee: Sandrine Dudoit
    - Keynote Speakers: Elizabeth H. Blackburn, Jennifer Marshall Graves, Yishi Jin, Jay D. Keasling, Harry F. Noller, Patrick O. Brown, Abby Dernburg, Aviv Regev
